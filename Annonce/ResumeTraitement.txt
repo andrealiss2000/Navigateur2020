@@ -1,0 +1,75 @@
+--------Début d'un nouveau traitement---------
+Nom du projet      : testNomProjet2
+Date 		: Thu Feb 20 14:07:41 CET 2020
+Balises	: 
+	SEQ 	:
+		Balise de Debut 	=> <1>
+		Balise de Fin 		=> <2>
+	ENSEIGNE 1 	:
+		Balise de Debut 	=> <ENSEIGNE>
+		Balise de Fin 		=> <3>
+	ADRESSE 	:
+		Balise de Debut 	=> <4>
+		Balise de Fin 		=> <5>
+	salarié 	:
+		Balise de Debut 	=> <SALARIES>
+		Balise de Fin 		=> <6>
+
+Fichier source	: C:\Users\plan鵥\Documents\Plan鵥\Documents\Applications\Applications\Navigateur2018Excel\Annonce\Fichiers Textes\hub job fevrier_2.txt
+Fichier sortie	: .\Annonce\Fichiers Finaux/hub job fevrier_2_traité.xls
+--------------------------------------------------
+--------Début d'un nouveau traitement---------
+Nom du projet      : testNomProjet
+Date 		: Mon Apr 20 11:06:35 CEST 2020
+Balises	: 
+	SEQ 	:
+		Balise de Debut 	=> <use xlink:href="/svg/etu.sprite.svg#icon-phone"/>
+		Balise de Fin 		=> Contacts RH :
+
+Fichier source	: C:\Users\plan鵥\Documents\Plan鵥\Documents\Applications\Applications\Navigateur2018Excel\Annonce\Fichiers Textes\drh complet.txt
+Fichier sortie	: .\Annonce\Fichiers Finaux/drh complet_traité.xls
+--------------------------------------------------
+--------Début d'un nouveau traitement---------
+Nom du projet      : societe_5_traité
+Date 		: Wed Jun 10 10:49:21 CEST 2020
+Balises	: 
+	TITRE 1 	:
+		Balise de Debut 	=> <title>
+		Balise de Fin 		=> </title>
+
+Fichier source	: E:\Andrea\Navigateur2020Excel\Annonce\Fichiers Textes\societe_5.txt
+Fichier sortie	: .\Annonce\Fichiers Finaux/societe_5_traité.xls
+--------------------------------------------------
+--------Début d'un nouveau traitement---------
+Nom du projet      : societe_5_traité
+Date 		: Wed Jun 10 10:50:38 CEST 2020
+Balises	: 
+	TITRE 1 	:
+		Balise de Debut 	=> <title>
+		Balise de Fin 		=> </title>
+
+Fichier source	: E:\Andrea\Navigateur2020Excel\Annonce\Fichiers Textes\societe_5.txt
+Fichier sortie	: .\Annonce\Fichiers Finaux/societe_5_traité.xls
+--------------------------------------------------
+--------Début d'un nouveau traitement---------
+Nom du projet      : societe_5_traité
+Date 		: Wed Jun 10 10:53:26 CEST 2020
+Balises	: 
+	TITRE 1 	:
+		Balise de Debut 	=> <title>
+		Balise de Fin 		=> </title>
+
+Fichier source	: E:\Andrea\Navigateur2020Excel\Annonce\Fichiers Textes\societe_5.txt
+Fichier sortie	: .\Annonce\Fichiers Finaux/societe_5_traité.xls
+--------------------------------------------------
+--------Début d'un nouveau traitement---------
+Nom du projet      : societe_5_traité
+Date 		: Wed Jun 10 10:53:49 CEST 2020
+Balises	: 
+	TITRE 1 	:
+		Balise de Debut 	=> <title>
+		Balise de Fin 		=> </title>
+
+Fichier source	: E:\Andrea\Navigateur2020Excel\Annonce\Fichiers Textes\societe_5.txt
+Fichier sortie	: .\Annonce\Fichiers Finaux/societe_5_traité.xls
+--------------------------------------------------

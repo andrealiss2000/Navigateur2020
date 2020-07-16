@@ -1,0 +1,2839 @@
+<DEBUTBALISE>
+<meta itemprop="url" content="/annonce-legale/1013064558"/>
+<meta itemprop="productID" content="1013064558"/>
+<meta itemprop="releaseDate" content="2020-04-27"/>
+<h2 class="entreprise-title" style="max-width: 720px;line-height:130%;">
+<a href="/annonce-legale/1013064558">
+<span itemprop="name">
+<span class="hidden">
+SCI LE PARC JAURES :
+<1>
+Création d'entreprise
+<2>
+<3>
+<4>
+<small class="hidden">
+<a href="https://actulegales.fr/recherche/siren/489737155">
+<5>
+SCI LE PARC JAURES
+<6>
+(Siren : 489737155)
+<7>
+</small>
+<span class="block entreprise-adresse">
+<8>
+08000
+<9>
+<10>
+CHARLEVILLE MEZIERES
+<11>
+<12>
+<dl style="line-height: 24px; margin-bottom:15px">
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="alicons alicons-calendar">
+</i>
+Date
+<13>
+:
+</dt>
+<dd>
+<span style="line-height: 24px;" class="date-content">
+<strong itemprop="releaseDate" content="2020-04-27">
+27 Avril 2020
+<14>
+<15>
+</dd>
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="fa fa-newspaper-o">
+</i>
+Paru dans
+<16>
+:
+</dt>
+<dd itemprop="manufacturer" itemscope="" itemtype="http://schema.org/Organization" style="line-height: 24px;">
+<strong class="result-information" itemprop="name">
+<a href="/journaux/petites-affiches-matot-braine">
+Petites Affiches Matot Braine (Les)
+<17>
+<18>
+</dd>
+</dl>
+<meta itemprop="description" content="SCI LE PARC JAURES SCI LE PARC JAURES, 489 737 155 R.C.S. SEDAN. Par acte SSP à CHARLEVILLE MEZIERES du 13/02/2020, les associés ont decidé de la refonte totale des statuts de la société dont les caractéristiques sont les suivantes. FORME : Société civile immobilière. DENOMINATION : SCI LE PARC JAURES. OBJET : — L’acquisition,  La construction, la propriété, la gestion, l’administ..."/>
+<div class="col-xs-12 annonce-detail">
+<h3 class="h4" style="margin-bottom: 25px !important; margin-top: 15px !important;">
+Texte original de l'annonce légale* :
+<19>
+<p class="content" style="font-size: 1em; margin-bottom:25px;">
+
+SCI LE PARC JAURES SCI LE PARC JAURES, 489 737 155 R.C.S. SEDAN. Par acte SSP à CHARLEVILLE MEZIERES du 13/02/2020, les associés ont decidé de la refonte totale des statuts de la société dont les caractéristiques sont les suivantes. FORME : Société civile immobilière. DENOMINATION : SCI LE PARC JAURES. OBJET : — L’acquisition,  La construction, la propriété, la gestion, l’administration, l’entretien et la location de tous immeubles ou droits immobiliers ; — La mise à disposition à titre gratuit ou à titre onéreux des biens immobiliers acquis par la société ; — De manière exceptionnelle, l’aliénation du ou des immeubles devenus inutiles à la société, au moyen de la vente échange ou apport en société, la fréquence des ventes ne devant pas modifier le caractère civil de la société et toute opération pouvant se rattacher à l’objet social. SIEGE : 5 chemin sous les roches à CHARLEVILLE MEZIERES. DUREE : 99 ans. CAPITAL : 100.000 €. GERANTS : Monsieur Irek KACZMARCZYK, 5 chemin sous les roches CHARLEVILLE MEZIERES ; Madame Marie-France BROUTIN, même adresse. CESSIONS DE PARTS : Cession libre entre associés. Agrément obligatoire de l’AGO pour tous les autres cas. 196867 Pour avis : Le gérant.
+<20>
+<21>
+<FINBALISE>
+<DEBUTBALISE>
+<meta itemprop="url" content="/annonce-legale/1013053044"/>
+<meta itemprop="productID" content="1013053044"/>
+<meta itemprop="releaseDate" content="2020-04-24"/>
+<h2 class="entreprise-title" style="max-width: 720px;line-height:130%;">
+<a href="/annonce-legale/1013053044">
+<span itemprop="name">
+<span class="hidden">
+TPC :
+<1>
+Création d'entreprise
+<2>
+<3>
+<4>
+<small class="hidden">
+<a href="https://actulegales.fr/recherche/siren/882182835">
+<5>
+TPC
+<6>
+(Siren : 882182835)
+<7>
+</small>
+<span class="block entreprise-adresse">
+<8>
+44000
+<9>
+<10>
+NANTES
+<11>
+<12>
+<dl style="line-height: 24px; margin-bottom:15px">
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="alicons alicons-calendar">
+</i>
+Date
+<13>
+:
+</dt>
+<dd>
+<span style="line-height: 24px;" class="date-content">
+<strong itemprop="releaseDate" content="2020-04-24">
+24 Avril 2020
+<14>
+<15>
+</dd>
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="fa fa-newspaper-o">
+</i>
+Paru dans
+<16>
+:
+</dt>
+<dd itemprop="manufacturer" itemscope="" itemtype="http://schema.org/Organization" style="line-height: 24px;">
+<strong class="result-information" itemprop="name">
+<a href="/journaux/informateur-judiciaire">
+Informateur judiciaire (L')
+<17>
+<18>
+</dd>
+</dl>
+<meta itemprop="description" content="Par ASSP du 21/02/2020, il a éte constitué la SCI dénommée TPC. Siège social : 29 rue de Coulmiers 44000 Nantes. Capital : 550 €. Objet : acquisition et gestion de biens mobiliers et immobiliers. Gérance : Mme Christine RIVIERRE, 29 rue de Coulmiers 44000 Nantes. Cessions soumises à agrément. Durée : 99 ans. Immatriculation au RCS de NANTES. 20IJ02466..."/>
+<div class="col-xs-12 annonce-detail">
+<h3 class="h4" style="margin-bottom: 25px !important; margin-top: 15px !important;">
+Texte original de l'annonce légale* :
+<19>
+<p class="content" style="font-size: 1em; margin-bottom:25px;">
+
+Par ASSP du 21/02/2020, il a éte constitué la SCI dénommée TPC. Siège social : 29 rue de Coulmiers 44000 Nantes. Capital : 550 €. Objet : acquisition et gestion de biens mobiliers et immobiliers. Gérance : Mme Christine RIVIERRE, 29 rue de Coulmiers 44000 Nantes. Cessions soumises à agrément. Durée : 99 ans. Immatriculation au RCS de NANTES. 20IJ02466
+<20>
+<21>
+<FINBALISE>
+<DEBUTBALISE>
+<meta itemprop="url" content="/annonce-legale/1013032835"/>
+<meta itemprop="productID" content="1013032835"/>
+<meta itemprop="releaseDate" content="2020-04-12"/>
+<h2 class="entreprise-title" style="max-width: 720px;line-height:130%;">
+<a href="/annonce-legale/1013032835">
+<span itemprop="name">
+<span class="hidden">
+SCI BOURGEOIS IMMOBILIER :
+<1>
+Création d'entreprise
+<2>
+<3>
+<4>
+<small class="hidden">
+<a href="https://actulegales.fr/recherche/siren/882195571">
+<5>
+SCI BOURGEOIS IMMOBILIER
+<6>
+(Siren : 882195571)
+<7>
+</small>
+<span class="block entreprise-adresse">
+<8>
+36100
+<9>
+<10>
+ST AOUSTRILLE
+<11>
+<12>
+<dl style="line-height: 24px; margin-bottom:15px">
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="alicons alicons-calendar">
+</i>
+Date
+<13>
+:
+</dt>
+<dd>
+<span style="line-height: 24px;" class="date-content">
+<strong itemprop="releaseDate" content="2020-04-12">
+12 Avril 2020
+<14>
+<15>
+</dd>
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="fa fa-newspaper-o">
+</i>
+Paru dans
+<16>
+:
+</dt>
+<dd itemprop="manufacturer" itemscope="" itemtype="http://schema.org/Organization" style="line-height: 24px;">
+<strong class="result-information" itemprop="name">
+<a href="/journaux/nouvelle-republique-du-centre-ouest-edition-de-l-indre">
+La Nouvelle République du Centre Ouest - Edition de l'Indre
+<17>
+<18>
+</dd>
+</dl>
+<meta itemprop="description" content="Par acte SSP du 02/03/2020, il a éte constitué une SCI ayant les caractéristiques suivantes : Dénomination : SCI BOURGEOIS IMMOBILIER. Objet social : immobilier Siège social : Zac Champfort 36100 Saint Aoustrille, 36100 Saint-Aoustrille. Capital : 1000 €. Durée: 99 ans. Gérance : Mme Bourgeois Kathleen,  Demeurant 15 rue des Castors, 36100 Issoudun. Immatriculation au RCS de Châteauroux...."/>
+<div class="col-xs-12 annonce-detail">
+<h3 class="h4" style="margin-bottom: 25px !important; margin-top: 15px !important;">
+Texte original de l'annonce légale* :
+<19>
+<p class="content" style="font-size: 1em; margin-bottom:25px;">
+
+Par acte SSP du 02/03/2020, il a éte constitué une SCI ayant les caractéristiques suivantes : Dénomination : SCI BOURGEOIS IMMOBILIER. Objet social : immobilier Siège social : Zac Champfort 36100 Saint Aoustrille, 36100 Saint-Aoustrille. Capital : 1000 €. Durée: 99 ans. Gérance : Mme Bourgeois Kathleen,  Demeurant 15 rue des Castors, 36100 Issoudun. Immatriculation au RCS de Châteauroux.
+<20>
+<21>
+<FINBALISE>
+<DEBUTBALISE>
+<meta itemprop="url" content="/annonce-legale/1013034790"/>
+<meta itemprop="productID" content="1013034790"/>
+<meta itemprop="releaseDate" content="2020-04-12"/>
+<h2 class="entreprise-title" style="max-width: 720px;line-height:130%;">
+<a href="/annonce-legale/1013034790">
+<span itemprop="name">
+<span class="hidden">
+SCI BOURGEOIS IMMOBILIER :
+<1>
+Création d'entreprise
+<2>
+<3>
+<4>
+<small class="hidden">
+<a href="https://actulegales.fr/recherche/siren/882195571">
+<5>
+SCI BOURGEOIS IMMOBILIER
+<6>
+(Siren : 882195571)
+<7>
+</small>
+<span class="block entreprise-adresse">
+<8>
+36100
+<9>
+<10>
+ST AOUSTRILLE
+<11>
+<12>
+<dl style="line-height: 24px; margin-bottom:15px">
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="alicons alicons-calendar">
+</i>
+Date
+<13>
+:
+</dt>
+<dd>
+<span style="line-height: 24px;" class="date-content">
+<strong itemprop="releaseDate" content="2020-04-12">
+12 Avril 2020
+<14>
+<15>
+</dd>
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="fa fa-newspaper-o">
+</i>
+Paru dans
+<16>
+:
+</dt>
+<dd itemprop="manufacturer" itemscope="" itemtype="http://schema.org/Organization" style="line-height: 24px;">
+<strong class="result-information" itemprop="name">
+<a href="/journaux/nouvelle-republique-du-centre-ouest-edition-des-deux-sevres">
+La Nouvelle République du Centre Ouest - Edition des Deux Sèvres
+<17>
+<18>
+</dd>
+</dl>
+<meta itemprop="description" content="Par acte SSP du 02/03/2020, il a éte constitué une SCI ayant les caractéristiques suivantes : Dénomination : SCI BOURGEOIS IMMOBILIER. Objet social : immobilier Siège social : Zac Champfort 36100 Saint Aoustrille, 36100 Saint-Aoustrille. Capital : 1000 €. Durée: 99 ans. Gérance : Mme Bourgeois Kathleen,  Demeurant 15 rue des Castors, 36100 Issoudun. Immatriculation au RCS de Châteauroux...."/>
+<div class="col-xs-12 annonce-detail">
+<h3 class="h4" style="margin-bottom: 25px !important; margin-top: 15px !important;">
+Texte original de l'annonce légale* :
+<19>
+<p class="content" style="font-size: 1em; margin-bottom:25px;">
+
+Par acte SSP du 02/03/2020, il a éte constitué une SCI ayant les caractéristiques suivantes : Dénomination : SCI BOURGEOIS IMMOBILIER. Objet social : immobilier Siège social : Zac Champfort 36100 Saint Aoustrille, 36100 Saint-Aoustrille. Capital : 1000 €. Durée: 99 ans. Gérance : Mme Bourgeois Kathleen,  Demeurant 15 rue des Castors, 36100 Issoudun. Immatriculation au RCS de Châteauroux.
+<20>
+<21>
+<FINBALISE>
+<DEBUTBALISE>
+<meta itemprop="url" content="/annonce-legale/1013034925"/>
+<meta itemprop="productID" content="1013034925"/>
+<meta itemprop="releaseDate" content="2020-04-12"/>
+<h2 class="entreprise-title" style="max-width: 720px;line-height:130%;">
+<a href="/annonce-legale/1013034925">
+<span itemprop="name">
+<span class="hidden">
+SCI BOURGEOIS IMMOBILIER :
+<1>
+Création d'entreprise
+<2>
+<3>
+<4>
+<small class="hidden">
+<a href="https://actulegales.fr/recherche/siren/882195571">
+<5>
+SCI BOURGEOIS IMMOBILIER
+<6>
+(Siren : 882195571)
+<7>
+</small>
+<span class="block entreprise-adresse">
+<8>
+36100
+<9>
+<10>
+ST AOUSTRILLE
+<11>
+<12>
+<dl style="line-height: 24px; margin-bottom:15px">
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="alicons alicons-calendar">
+</i>
+Date
+<13>
+:
+</dt>
+<dd>
+<span style="line-height: 24px;" class="date-content">
+<strong itemprop="releaseDate" content="2020-04-12">
+12 Avril 2020
+<14>
+<15>
+</dd>
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="fa fa-newspaper-o">
+</i>
+Paru dans
+<16>
+:
+</dt>
+<dd itemprop="manufacturer" itemscope="" itemtype="http://schema.org/Organization" style="line-height: 24px;">
+<strong class="result-information" itemprop="name">
+<a href="/journaux/nouvelle-republique-du-centre-ouest-edition-de-la-vienne">
+La Nouvelle République du Centre Ouest - Edition de la Vienne
+<17>
+<18>
+</dd>
+</dl>
+<meta itemprop="description" content="Par acte SSP du 02/03/2020, il a éte constitué une SCI ayant les caractéristiques suivantes : Dénomination : SCI BOURGEOIS IMMOBILIER. Objet social : immobilier Siège social : Zac Champfort 36100 Saint Aoustrille, 36100 Saint-Aoustrille. Capital : 1000 €. Durée: 99 ans. Gérance : Mme Bourgeois Kathleen,  Demeurant 15 rue des Castors, 36100 Issoudun. Immatriculation au RCS de Châteauroux...."/>
+<div class="col-xs-12 annonce-detail">
+<h3 class="h4" style="margin-bottom: 25px !important; margin-top: 15px !important;">
+Texte original de l'annonce légale* :
+<19>
+<p class="content" style="font-size: 1em; margin-bottom:25px;">
+
+Par acte SSP du 02/03/2020, il a éte constitué une SCI ayant les caractéristiques suivantes : Dénomination : SCI BOURGEOIS IMMOBILIER. Objet social : immobilier Siège social : Zac Champfort 36100 Saint Aoustrille, 36100 Saint-Aoustrille. Capital : 1000 €. Durée: 99 ans. Gérance : Mme Bourgeois Kathleen,  Demeurant 15 rue des Castors, 36100 Issoudun. Immatriculation au RCS de Châteauroux.
+<20>
+<21>
+<FINBALISE>
+<DEBUTBALISE>
+<meta itemprop="url" content="/annonce-legale/1013039508"/>
+<meta itemprop="productID" content="1013039508"/>
+<meta itemprop="releaseDate" content="2020-04-15"/>
+<h2 class="entreprise-title" style="max-width: 720px;line-height:130%;">
+<a href="/annonce-legale/1013039508">
+<span itemprop="name">
+<span class="hidden">
+SE.MI.MI :
+<1>
+Création d'entreprise
+<2>
+<3>
+<4>
+<small class="hidden">
+<a href="https://actulegales.fr/recherche/siren/882238348">
+<5>
+SE.MI.MI
+<6>
+(Siren : 882238348)
+<7>
+</small>
+<span class="block entreprise-adresse">
+<8>
+04150
+<9>
+<10>
+REVEST DU BION
+<11>
+<12>
+<dl style="line-height: 24px; margin-bottom:15px">
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="alicons alicons-calendar">
+</i>
+Date
+<13>
+:
+</dt>
+<dd>
+<span style="line-height: 24px;" class="date-content">
+<strong itemprop="releaseDate" content="2020-04-15">
+15 Avril 2020
+<14>
+<15>
+</dd>
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="fa fa-newspaper-o">
+</i>
+Paru dans
+<16>
+:
+</dt>
+<dd itemprop="manufacturer" itemscope="" itemtype="http://schema.org/Organization" style="line-height: 24px;">
+<strong class="result-information" itemprop="name">
+<a href="/journaux/tpbm-semaine-de-provence">
+TPBM - Semaine de Provence
+<17>
+<18>
+</dd>
+</dl>
+<meta itemprop="description" content="Par ASSP du 02/03/2020, il a éte constitué la SCI : Dénommée : SE.MI.MI Siège social : rue du Portail, 04150 Revest du bion Capital : 1000€ Objet : acquisition et gestion de biens mobiliers et immobiliers Gérance : M. Michel BERNARD,  Quartier la Tour, chemin du Jean Vincent 04150 Revest du bion. Cessions : soumises à agrément Durée : 99 ans Immatriculation au RCS de Manosque. V6279666]..."/>
+<div class="col-xs-12 annonce-detail">
+<h3 class="h4" style="margin-bottom: 25px !important; margin-top: 15px !important;">
+Texte original de l'annonce légale* :
+<19>
+<p class="content" style="font-size: 1em; margin-bottom:25px;">
+
+Par ASSP du 02/03/2020, il a éte constitué la SCI : Dénommée : SE.MI.MI Siège social : rue du Portail, 04150 Revest du bion Capital : 1000€ Objet : acquisition et gestion de biens mobiliers et immobiliers Gérance : M. Michel BERNARD,  Quartier la Tour, chemin du Jean Vincent 04150 Revest du bion. Cessions : soumises à agrément Durée : 99 ans Immatriculation au RCS de Manosque. V6279666]
+<20>
+<21>
+<FINBALISE>
+<DEBUTBALISE>
+<meta itemprop="url" content="/annonce-legale/1013036186"/>
+<meta itemprop="productID" content="1013036186"/>
+<meta itemprop="releaseDate" content="2020-04-10"/>
+<h2 class="entreprise-title" style="max-width: 720px;line-height:130%;">
+<a href="/annonce-legale/1013036186">
+<span itemprop="name">
+<span class="hidden">
+SCI O2JC :
+<1>
+Création d'entreprise
+<2>
+<3>
+<4>
+<small class="hidden">
+<a href="https://actulegales.fr/recherche/siren/882250996">
+<5>
+SCI O2JC
+<6>
+(Siren : 882250996)
+<7>
+</small>
+<span class="block entreprise-adresse">
+<8>
+92160
+<9>
+<10>
+ANTONY
+<11>
+<12>
+<dl style="line-height: 24px; margin-bottom:15px">
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="alicons alicons-calendar">
+</i>
+Date
+<13>
+:
+</dt>
+<dd>
+<span style="line-height: 24px;" class="date-content">
+<strong itemprop="releaseDate" content="2020-04-10">
+10 Avril 2020
+<14>
+<15>
+</dd>
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="fa fa-newspaper-o">
+</i>
+Paru dans
+<16>
+:
+</dt>
+<dd itemprop="manufacturer" itemscope="" itemtype="http://schema.org/Organization" style="line-height: 24px;">
+<strong class="result-information" itemprop="name">
+<a href="/journaux/affiches-parisiennes">
+Affiches parisiennes (Les)
+<17>
+<18>
+</dd>
+</dl>
+<meta itemprop="description" content="Par acte SSP du 3/03/2020, il a éte constitué une SCI ayant les caractéristiques suivantes : Dénomination : SCI O2JC Objet social : Immobilier. Siège social : 8,  Rue Carnot, 92160 Antony. Capital : 1.000 €. Durée : 99 ans. Gérance : M. AILLOUD Jan-Alexandre, demeurant 15, avenue Garennière, 94260 Fresnes. Immatriculation : au RCS de Nanterre. V0616901..."/>
+<div class="col-xs-12 annonce-detail">
+<h3 class="h4" style="margin-bottom: 25px !important; margin-top: 15px !important;">
+Texte original de l'annonce légale* :
+<19>
+<p class="content" style="font-size: 1em; margin-bottom:25px;">
+
+Par acte SSP du 3/03/2020, il a éte constitué une SCI ayant les caractéristiques suivantes : Dénomination : SCI O2JC Objet social : Immobilier. Siège social : 8,  Rue Carnot, 92160 Antony. Capital : 1.000 €. Durée : 99 ans. Gérance : M. AILLOUD Jan-Alexandre, demeurant 15, avenue Garennière, 94260 Fresnes. Immatriculation : au RCS de Nanterre. V0616901
+<20>
+<21>
+<FINBALISE>
+<DEBUTBALISE>
+<meta itemprop="url" content="/annonce-legale/1013035964"/>
+<meta itemprop="productID" content="1013035964"/>
+<meta itemprop="releaseDate" content="2020-04-10"/>
+<h2 class="entreprise-title" style="max-width: 720px;line-height:130%;">
+<a href="/annonce-legale/1013035964">
+<span itemprop="name">
+<span class="hidden">
+SCI MARACHE :
+<1>
+Création d'entreprise
+<2>
+<3>
+<4>
+<small class="hidden">
+<a href="https://actulegales.fr/recherche/siren/882251093">
+<5>
+SCI MARACHE
+<6>
+(Siren : 882251093)
+<7>
+</small>
+<span class="block entreprise-adresse">
+<8>
+93100
+<9>
+<10>
+MONTREUIL
+<11>
+<12>
+<dl style="line-height: 24px; margin-bottom:15px">
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="alicons alicons-calendar">
+</i>
+Date
+<13>
+:
+</dt>
+<dd>
+<span style="line-height: 24px;" class="date-content">
+<strong itemprop="releaseDate" content="2020-04-10">
+10 Avril 2020
+<14>
+<15>
+</dd>
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="fa fa-newspaper-o">
+</i>
+Paru dans
+<16>
+:
+</dt>
+<dd itemprop="manufacturer" itemscope="" itemtype="http://schema.org/Organization" style="line-height: 24px;">
+<strong class="result-information" itemprop="name">
+<a href="/journaux/affiches-parisiennes">
+Affiches parisiennes (Les)
+<17>
+<18>
+</dd>
+</dl>
+<meta itemprop="description" content="Par acte SSP du 21/02/2020, il a éte constitué une SCI à capital variable ayant les caractéristiques suivantes : Dénomination : SCI MARACHE Objet social : Immobilier. Siège social : 102 bis,  Rue Pierre-de-Montreuil, 93100 Montreuil. Capital minimum : 200 €. Capital initial : 200 €. Capital maximum : 20.000 €. Durée : 99 ans. Gérance : MARACHE Carole, demeurant 102 bis, rue Pierre-de..."/>
+<div class="col-xs-12 annonce-detail">
+<h3 class="h4" style="margin-bottom: 25px !important; margin-top: 15px !important;">
+Texte original de l'annonce légale* :
+<19>
+<p class="content" style="font-size: 1em; margin-bottom:25px;">
+
+Par acte SSP du 21/02/2020, il a éte constitué une SCI à capital variable ayant les caractéristiques suivantes : Dénomination : SCI MARACHE Objet social : Immobilier. Siège social : 102 bis,  Rue Pierre-de-Montreuil, 93100 Montreuil. Capital minimum : 200 €. Capital initial : 200 €. Capital maximum : 20.000 €. Durée : 99 ans. Gérance : MARACHE Carole, demeurant 102 bis, rue Pierre-de-Montreuil, 93100 Montreuil. Immatriculation : au RCS de Bobigny. V0618277
+<20>
+<21>
+<FINBALISE>
+<DEBUTBALISE>
+<meta itemprop="url" content="/annonce-legale/1013041718"/>
+<meta itemprop="productID" content="1013041718"/>
+<meta itemprop="releaseDate" content="2020-04-16"/>
+<h2 class="entreprise-title" style="max-width: 720px;line-height:130%;">
+<a href="/annonce-legale/1013041718">
+<span itemprop="name">
+<span class="hidden">
+EFT46 :
+<1>
+Création d'entreprise
+<2>
+<3>
+<4>
+<small class="hidden">
+<a href="https://actulegales.fr/recherche/siren/882259963">
+<5>
+EFT46
+<6>
+(Siren : 882259963)
+<7>
+</small>
+<span class="block entreprise-adresse">
+<8>
+46140
+<9>
+<10>
+SAUZET
+<11>
+<12>
+<dl style="line-height: 24px; margin-bottom:15px">
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="alicons alicons-calendar">
+</i>
+Date
+<13>
+:
+</dt>
+<dd>
+<span style="line-height: 24px;" class="date-content">
+<strong itemprop="releaseDate" content="2020-04-16">
+16 Avril 2020
+<14>
+<15>
+</dd>
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="fa fa-newspaper-o">
+</i>
+Paru dans
+<16>
+:
+</dt>
+<dd itemprop="manufacturer" itemscope="" itemtype="http://schema.org/Organization" style="line-height: 24px;">
+<strong class="result-information" itemprop="name">
+<a href="/journaux/voix-du-cantal">
+Voix du Cantal (La)
+<17>
+<18>
+</dd>
+</dl>
+<meta itemprop="description" content="RP 318393 Par acte SSP du 05 mars 2020, il a éte constitué une SCI ayant les caractéristiques suivantes : Dénomination : EFT46 Objet social : Immobilier Siège social : 58 rue des Vignes Vieilles, 46140 Sauzet.Capital: 100 euros Durée : 99 ans Gérance : Mme TOMASELLA Celine,  Demeurant 58 rue des Vignes Vieilles, 46140 Sauzet Immatriculation au RCS de Cahors..."/>
+<div class="col-xs-12 annonce-detail">
+<h3 class="h4" style="margin-bottom: 25px !important; margin-top: 15px !important;">
+Texte original de l'annonce légale* :
+<19>
+<p class="content" style="font-size: 1em; margin-bottom:25px;">
+
+RP 318393 Par acte SSP du 05 mars 2020, il a éte constitué une SCI ayant les caractéristiques suivantes : Dénomination : EFT46 Objet social : Immobilier Siège social : 58 rue des Vignes Vieilles, 46140 Sauzet.Capital: 100 euros Durée : 99 ans Gérance : Mme TOMASELLA Celine,  Demeurant 58 rue des Vignes Vieilles, 46140 Sauzet Immatriculation au RCS de Cahors
+<20>
+<21>
+<FINBALISE>
+<DEBUTBALISE>
+<meta itemprop="url" content="/annonce-legale/1013043060"/>
+<meta itemprop="productID" content="1013043060"/>
+<meta itemprop="releaseDate" content="2020-04-16"/>
+<h2 class="entreprise-title" style="max-width: 720px;line-height:130%;">
+<a href="/annonce-legale/1013043060">
+<span itemprop="name">
+<span class="hidden">
+EFT46 :
+<1>
+Création d'entreprise
+<2>
+<3>
+<4>
+<small class="hidden">
+<a href="https://actulegales.fr/recherche/siren/882259963">
+<5>
+EFT46
+<6>
+(Siren : 882259963)
+<7>
+</small>
+<span class="block entreprise-adresse">
+<8>
+46140
+<9>
+<10>
+SAUZET
+<11>
+<12>
+<dl style="line-height: 24px; margin-bottom:15px">
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="alicons alicons-calendar">
+</i>
+Date
+<13>
+:
+</dt>
+<dd>
+<span style="line-height: 24px;" class="date-content">
+<strong itemprop="releaseDate" content="2020-04-16">
+16 Avril 2020
+<14>
+<15>
+</dd>
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="fa fa-newspaper-o">
+</i>
+Paru dans
+<16>
+:
+</dt>
+<dd itemprop="manufacturer" itemscope="" itemtype="http://schema.org/Organization" style="line-height: 24px;">
+<strong class="result-information" itemprop="name">
+<a href="/journaux/vie-quercynoise">
+Vie Quercynoise (La)
+<17>
+<18>
+</dd>
+</dl>
+<meta itemprop="description" content="RP 318393 Par acte SSP du 05 mars 2020, il a éte constitué une SCI ayant les caractéristiques suivantes : Dénomination : EFT46 Objet social : Immobilier Siège social : 58 rue des Vignes Vieilles, 46140 Sauzet.Capital: 100 euros Durée : 99 ans Gérance : Mme TOMASELLA Celine,  Demeurant 58 rue des Vignes Vieilles, 46140 Sauzet Immatriculation au RCS de Cahors..."/>
+<div class="col-xs-12 annonce-detail">
+<h3 class="h4" style="margin-bottom: 25px !important; margin-top: 15px !important;">
+Texte original de l'annonce légale* :
+<19>
+<p class="content" style="font-size: 1em; margin-bottom:25px;">
+
+RP 318393 Par acte SSP du 05 mars 2020, il a éte constitué une SCI ayant les caractéristiques suivantes : Dénomination : EFT46 Objet social : Immobilier Siège social : 58 rue des Vignes Vieilles, 46140 Sauzet.Capital: 100 euros Durée : 99 ans Gérance : Mme TOMASELLA Celine,  Demeurant 58 rue des Vignes Vieilles, 46140 Sauzet Immatriculation au RCS de Cahors
+<20>
+<21>
+<FINBALISE>
+<DEBUTBALISE>
+<meta itemprop="url" content="/annonce-legale/1013033927"/>
+<meta itemprop="productID" content="1013033927"/>
+<meta itemprop="releaseDate" content="2020-04-11"/>
+<h2 class="entreprise-title" style="max-width: 720px;line-height:130%;">
+<a href="/annonce-legale/1013033927">
+<span itemprop="name">
+<span class="hidden">
+Maurinice :
+<1>
+Création d'entreprise
+<2>
+<3>
+<4>
+<small class="hidden">
+<a href="https://actulegales.fr/recherche/siren/882269889">
+<5>
+Maurinice
+<6>
+(Siren : 882269889)
+<7>
+</small>
+<span class="block entreprise-adresse">
+<8>
+66140
+<9>
+<10>
+CANET EN ROUSSILLON
+<11>
+<12>
+<dl style="line-height: 24px; margin-bottom:15px">
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="alicons alicons-calendar">
+</i>
+Date
+<13>
+:
+</dt>
+<dd>
+<span style="line-height: 24px;" class="date-content">
+<strong itemprop="releaseDate" content="2020-04-11">
+11 Avril 2020
+<14>
+<15>
+</dd>
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="fa fa-newspaper-o">
+</i>
+Paru dans
+<16>
+:
+</dt>
+<dd itemprop="manufacturer" itemscope="" itemtype="http://schema.org/Organization" style="line-height: 24px;">
+<strong class="result-information" itemprop="name">
+<a href="/journaux/petites-annonces-roussillonnaises-et-le-journal-des-annonces-legales-reunis">
+Petites Annonces Roussillonnaises (Les) et Le Journal des Annonces Légales Réunis (Parjal)
+<17>
+<18>
+</dd>
+</dl>
+<meta itemprop="description" content="Par ASSP du 2/03/2020 constitution de la SCI : Maurinice. Capital : 500 €. Sise : 2 rue des albères 66140 canet-en-roussillon. Objet : gestion immobiliere. Gérants : Jean-Michel et Véronique Champelay, tous deux demeurant 2 rue des albères 66140 Canet-en-roussillon. Cession soumise au préalable à agrément. Chaque associé participe aux AG,  Une action=un vote. Durée : 99 ans à compter d..."/>
+<div class="col-xs-12 annonce-detail">
+<h3 class="h4" style="margin-bottom: 25px !important; margin-top: 15px !important;">
+Texte original de l'annonce légale* :
+<19>
+<p class="content" style="font-size: 1em; margin-bottom:25px;">
+
+Par ASSP du 2/03/2020 constitution de la SCI : Maurinice. Capital : 500 €. Sise : 2 rue des albères 66140 canet-en-roussillon. Objet : gestion immobiliere. Gérants : Jean-Michel et Véronique Champelay, tous deux demeurant 2 rue des albères 66140 Canet-en-roussillon. Cession soumise au préalable à agrément. Chaque associé participe aux AG,  Une action=un vote. Durée : 99 ans à compter de l’immatriculation au RCS de Perpignan.
+<20>
+<21>
+<FINBALISE>
+<DEBUTBALISE>
+<meta itemprop="url" content="/annonce-legale/1013032871"/>
+<meta itemprop="productID" content="1013032871"/>
+<meta itemprop="releaseDate" content="2020-04-10"/>
+<h2 class="entreprise-title" style="max-width: 720px;line-height:130%;">
+<a href="/annonce-legale/1013032871">
+<span itemprop="name">
+<span class="hidden">
+MAMI :
+<1>
+Création d'entreprise
+<2>
+<3>
+<4>
+<small class="hidden">
+<a href="https://actulegales.fr/recherche/siren/882280399">
+<5>
+MAMI
+<6>
+(Siren : 882280399)
+<7>
+</small>
+<span class="block entreprise-adresse">
+<8>
+37130
+<9>
+<10>
+LA CHAPELLE AUX NAUX
+<11>
+<12>
+<dl style="line-height: 24px; margin-bottom:15px">
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="alicons alicons-calendar">
+</i>
+Date
+<13>
+:
+</dt>
+<dd>
+<span style="line-height: 24px;" class="date-content">
+<strong itemprop="releaseDate" content="2020-04-10">
+10 Avril 2020
+<14>
+<15>
+</dd>
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="fa fa-newspaper-o">
+</i>
+Paru dans
+<16>
+:
+</dt>
+<dd itemprop="manufacturer" itemscope="" itemtype="http://schema.org/Organization" style="line-height: 24px;">
+<strong class="result-information" itemprop="name">
+<a href="/journaux/action-agricole-de-touraine">
+Action Agricole de Touraine (L')
+<17>
+<18>
+</dd>
+</dl>
+<meta itemprop="description" content="Par ASSP le 04/03/2020, il a éte constitué la SCI : MAMI Capital : 4€. Objet : L’acquisition et gestion civile de biens immobiliers en vue de location non meublée et accessoirement meublée. Siège et Gérance : BELDA François 6 Rue des Avanries, 37130 La Chapelle aux-Naux. BELDA Bernard 184 Rue Vauxibault, 37260 Monts. Durée : 99 ans. Au RCS de TOURS..."/>
+<div class="col-xs-12 annonce-detail">
+<h3 class="h4" style="margin-bottom: 25px !important; margin-top: 15px !important;">
+Texte original de l'annonce légale* :
+<19>
+<p class="content" style="font-size: 1em; margin-bottom:25px;">
+
+Par ASSP le 04/03/2020, il a éte constitué la SCI : MAMI Capital : 4€. Objet : L’acquisition et gestion civile de biens immobiliers en vue de location non meublée et accessoirement meublée. Siège et Gérance : BELDA François 6 Rue des Avanries, 37130 La Chapelle aux-Naux. BELDA Bernard 184 Rue Vauxibault, 37260 Monts. Durée : 99 ans. Au RCS de TOURS
+<20>
+<21>
+<FINBALISE>
+<DEBUTBALISE>
+<meta itemprop="url" content="/annonce-legale/1013030282"/>
+<meta itemprop="productID" content="1013030282"/>
+<meta itemprop="releaseDate" content="2020-04-10"/>
+<h2 class="entreprise-title" style="max-width: 720px;line-height:130%;">
+<a href="/annonce-legale/1013030282">
+<span itemprop="name">
+<span class="hidden">
+port unity :
+<1>
+Création d'entreprise
+<2>
+<3>
+<4>
+<small class="hidden">
+<a href="https://actulegales.fr/recherche/siren/882283708">
+<5>
+port unity
+<6>
+(Siren : 882283708)
+<7>
+</small>
+<span class="block entreprise-adresse">
+<8>
+83190
+<9>
+<10>
+OLLIOULES
+<11>
+<12>
+<dl style="line-height: 24px; margin-bottom:15px">
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="alicons alicons-calendar">
+</i>
+Date
+<13>
+:
+</dt>
+<dd>
+<span style="line-height: 24px;" class="date-content">
+<strong itemprop="releaseDate" content="2020-04-10">
+10 Avril 2020
+<14>
+<15>
+</dd>
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="fa fa-newspaper-o">
+</i>
+Paru dans
+<16>
+:
+</dt>
+<dd itemprop="manufacturer" itemscope="" itemtype="http://schema.org/Organization" style="line-height: 24px;">
+<strong class="result-information" itemprop="name">
+<a href="/journaux/var-information">
+Var Information
+<17>
+<18>
+</dd>
+</dl>
+<meta itemprop="description" content="20003164 Création de la sci à cap variable port unity sci 182 che de la reynaude 83190 ollioules. Cap.: 200€ cap.min.200€ Obj : immobilier. Grt.: tanguy port bernardin,40 aveudore pirmez 1040 bruxelles et flavien port bernardin,rte du boiron 31,1260 nyon. 99ans au rcs de toulon..."/>
+<div class="col-xs-12 annonce-detail">
+<h3 class="h4" style="margin-bottom: 25px !important; margin-top: 15px !important;">
+Texte original de l'annonce légale* :
+<19>
+<p class="content" style="font-size: 1em; margin-bottom:25px;">
+
+20003164 Création de la sci à cap variable port unity sci 182 che de la reynaude 83190 ollioules. Cap.: 200€ cap.min.200€ Obj : immobilier. Grt.: tanguy port bernardin,40 aveudore pirmez 1040 bruxelles et flavien port bernardin,rte du boiron 31,1260 nyon. 99ans au rcs de toulon
+<20>
+<21>
+<FINBALISE>
+<DEBUTBALISE>
+<meta itemprop="url" content="/annonce-legale/1013031236"/>
+<meta itemprop="productID" content="1013031236"/>
+<meta itemprop="releaseDate" content="2020-04-10"/>
+<h2 class="entreprise-title" style="max-width: 720px;line-height:130%;">
+<a href="/annonce-legale/1013031236">
+<span itemprop="name">
+<span class="hidden">
+SCI SAADNA &amp; CHEBOUBA :
+<1>
+Création d'entreprise
+<2>
+<3>
+<4>
+<small class="hidden">
+<a href="https://actulegales.fr/recherche/siren/882284847">
+<5>
+SCI SAADNA &amp; CHEBOUBA
+<6>
+(Siren : 882284847)
+<7>
+</small>
+<span class="block entreprise-adresse">
+<8>
+76300
+<9>
+<10>
+SOTTEVILLE LES ROUEN
+<11>
+<12>
+<dl style="line-height: 24px; margin-bottom:15px">
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="alicons alicons-calendar">
+</i>
+Date
+<13>
+:
+</dt>
+<dd>
+<span style="line-height: 24px;" class="date-content">
+<strong itemprop="releaseDate" content="2020-04-10">
+10 Avril 2020
+<14>
+<15>
+</dd>
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="fa fa-newspaper-o">
+</i>
+Paru dans
+<16>
+:
+</dt>
+<dd itemprop="manufacturer" itemscope="" itemtype="http://schema.org/Organization" style="line-height: 24px;">
+<strong class="result-information" itemprop="name">
+<a href="/journaux/informateur">
+Informateur (L')
+<17>
+<18>
+</dd>
+</dl>
+<meta itemprop="description" content="7223145301 VS CONSTITUTION Par acte SSP du 5 mars 2020, il a été constitue une SCI ayant les caractéristiques suivantes : Dénomination : SCI SAADNA &amp; CHEBOUBA. Objet social : immobilier. Siège social : 7,  Rue Docteur-Gallouen, 76300 Sotteville-lès-Rouen. Capital : 300 euros. Durée : 99 ans. Gérance : M. CHEBOUBA HANI NABIL, demeurant 7, rue Docteur-Gallouen, 76300 Sotteville-lès-Rouen ; ..."/>
+<div class="col-xs-12 annonce-detail">
+<h3 class="h4" style="margin-bottom: 25px !important; margin-top: 15px !important;">
+Texte original de l'annonce légale* :
+<19>
+<p class="content" style="font-size: 1em; margin-bottom:25px;">
+
+7223145301 VS CONSTITUTION Par acte SSP du 5 mars 2020, il a été constitue une SCI ayant les caractéristiques suivantes : Dénomination : SCI SAADNA &amp; CHEBOUBA. Objet social : immobilier. Siège social : 7,  Rue Docteur-Gallouen, 76300 Sotteville-lès-Rouen. Capital : 300 euros. Durée : 99 ans. Gérance : M. CHEBOUBA HANI NABIL, demeurant 7, rue Docteur-Gallouen, 76300 Sotteville-lès-Rouen ; M. SAADNA ALIOUET MONCEF, demeurant 265, cité 1er-Novembre-1954, 19000 Sétif. Immatriculation au RCS de Rouen.
+<20>
+<21>
+<FINBALISE>
+<DEBUTBALISE>
+<meta itemprop="url" content="/annonce-legale/1013040691"/>
+<meta itemprop="productID" content="1013040691"/>
+<meta itemprop="releaseDate" content="2020-04-14"/>
+<h2 class="entreprise-title" style="max-width: 720px;line-height:130%;">
+<a href="/annonce-legale/1013040691">
+<span itemprop="name">
+<span class="hidden">
+SCI BATTESTI MOUMEN :
+<1>
+Création d'entreprise
+<2>
+<3>
+<4>
+<small class="hidden">
+<a href="https://actulegales.fr/recherche/siren/882290430">
+<5>
+SCI BATTESTI MOUMEN
+<6>
+(Siren : 882290430)
+<7>
+</small>
+<span class="block entreprise-adresse">
+<8>
+95280
+<9>
+<10>
+JOUY LE MOUTIER
+<11>
+<12>
+<dl style="line-height: 24px; margin-bottom:15px">
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="alicons alicons-calendar">
+</i>
+Date
+<13>
+:
+</dt>
+<dd>
+<span style="line-height: 24px;" class="date-content">
+<strong itemprop="releaseDate" content="2020-04-14">
+14 Avril 2020
+<14>
+<15>
+</dd>
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="fa fa-newspaper-o">
+</i>
+Paru dans
+<16>
+:
+</dt>
+<dd itemprop="manufacturer" itemscope="" itemtype="http://schema.org/Organization" style="line-height: 24px;">
+<strong class="result-information" itemprop="name">
+<a href="/journaux/echos-le-publicateur-legal-la-vie-judiciaire">
+Echos (Les) / Le Publicateur Légal - La Vie Judiciaire
+<17>
+<18>
+</dd>
+</dl>
+<meta itemprop="description" content="ALP00057345 LES ECHOS Par ASSP du 3/03/2020 constitution de la SCI : SCI BATTESTI MOUMEN. Capital : 1000 €. Sise : 24 rue des girolles 95280 Jouy-le-Moutier. Objet : gestion immobiliere. Gérance : Cédric Battesti et Samia Battesti, 24 rue des girolles 95280 Jouyl-e Moutier. Cession soumise au préalable à agrément de la collectivité des associés. Durée : 99 ans à compter de l’immatricu..."/>
+<div class="col-xs-12 annonce-detail">
+<h3 class="h4" style="margin-bottom: 25px !important; margin-top: 15px !important;">
+Texte original de l'annonce légale* :
+<19>
+<p class="content" style="font-size: 1em; margin-bottom:25px;">
+
+ALP00057345 LES ECHOS Par ASSP du 3/03/2020 constitution de la SCI : SCI BATTESTI MOUMEN. Capital : 1000 €. Sise : 24 rue des girolles 95280 Jouy-le-Moutier. Objet : gestion immobiliere. Gérance : Cédric Battesti et Samia Battesti, 24 rue des girolles 95280 Jouyl-e Moutier. Cession soumise au préalable à agrément de la collectivité des associés. Durée : 99 ans à compter de l’immatriculation au RCS de Pontoise.
+<20>
+<21>
+<FINBALISE>
+<DEBUTBALISE>
+<meta itemprop="url" content="/annonce-legale/1013035895"/>
+<meta itemprop="productID" content="1013035895"/>
+<meta itemprop="releaseDate" content="2020-04-10"/>
+<h2 class="entreprise-title" style="max-width: 720px;line-height:130%;">
+<a href="/annonce-legale/1013035895">
+<span itemprop="name">
+<span class="hidden">
+SCI LAVIGNE 7 :
+<1>
+Création d'entreprise
+<2>
+<3>
+<4>
+<small class="hidden">
+<a href="https://actulegales.fr/recherche/siren/882291032">
+<5>
+SCI LAVIGNE 7
+<6>
+(Siren : 882291032)
+<7>
+</small>
+<span class="block entreprise-adresse">
+<8>
+93140
+<9>
+<10>
+BONDY
+<11>
+<12>
+<dl style="line-height: 24px; margin-bottom:15px">
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="alicons alicons-calendar">
+</i>
+Date
+<13>
+:
+</dt>
+<dd>
+<span style="line-height: 24px;" class="date-content">
+<strong itemprop="releaseDate" content="2020-04-10">
+10 Avril 2020
+<14>
+<15>
+</dd>
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="fa fa-newspaper-o">
+</i>
+Paru dans
+<16>
+:
+</dt>
+<dd itemprop="manufacturer" itemscope="" itemtype="http://schema.org/Organization" style="line-height: 24px;">
+<strong class="result-information" itemprop="name">
+<a href="/journaux/affiches-parisiennes">
+Affiches parisiennes (Les)
+<17>
+<18>
+</dd>
+</dl>
+<meta itemprop="description" content="Par acte SSP du 20/02/2020, il a éte constitué une SCI ayant les caractéristiques suivantes : Dénomination : SCI LAVIGNE 7 Objet social : L’acquisition,  Par voie d’achat, d’apport ou autrement, la détention, l’administration, la restauration et/ou la construction de tous immeubles bâtis et/ ou non bâtis, leur mise à disposition au bénéfice de tout ou partie des Associés et/ou l..."/>
+<div class="col-xs-12 annonce-detail">
+<h3 class="h4" style="margin-bottom: 25px !important; margin-top: 15px !important;">
+Texte original de l'annonce légale* :
+<19>
+<p class="content" style="font-size: 1em; margin-bottom:25px;">
+
+Par acte SSP du 20/02/2020, il a éte constitué une SCI ayant les caractéristiques suivantes : Dénomination : SCI LAVIGNE 7 Objet social : L’acquisition,  Par voie d’achat, d’apport ou autrement, la détention, l’administration, la restauration et/ou la construction de tous immeubles bâtis et/ ou non bâtis, leur mise à disposition au bénéfice de tout ou partie des Associés et/ou leur mise en location. Siège social : 7, villa Lavigne, 93140 Bondy. Capital : 1.000 €. Durée : 99 ans. Gérance : Mme RIZZA Béatrice, demeurant 7, villa Lavigne, 93140 Bondy, Mme RIZZA, Simone, demeurant 125, avenue Carnot, 93140 Bondy. Clause d’agrément : Cession libre entre Associés, ainsi qu’à leurs conjoints, ascendants ou descendants. Cession soumise à agrément dans les autres cas. Immatriculation : au RCS de Bobigny. V0619160
+<20>
+<21>
+<FINBALISE>
+<DEBUTBALISE>
+<meta itemprop="url" content="/annonce-legale/1013028421"/>
+<meta itemprop="productID" content="1013028421"/>
+<meta itemprop="releaseDate" content="2020-04-10"/>
+<h2 class="entreprise-title" style="max-width: 720px;line-height:130%;">
+<a href="/annonce-legale/1013028421">
+<span itemprop="name">
+<span class="hidden">
+sci olive et jo :
+<1>
+Création d'entreprise
+<2>
+<3>
+<4>
+<small class="hidden">
+<a href="https://actulegales.fr/recherche/siren/882296056">
+<5>
+sci olive et jo
+<6>
+(Siren : 882296056)
+<7>
+</small>
+<span class="block entreprise-adresse">
+<8>
+33000
+<9>
+<10>
+BORDEAUX
+<11>
+<12>
+<dl style="line-height: 24px; margin-bottom:15px">
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="alicons alicons-calendar">
+</i>
+Date
+<13>
+:
+</dt>
+<dd>
+<span style="line-height: 24px;" class="date-content">
+<strong itemprop="releaseDate" content="2020-04-10">
+10 Avril 2020
+<14>
+<15>
+</dd>
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="fa fa-newspaper-o">
+</i>
+Paru dans
+<16>
+:
+</dt>
+<dd itemprop="manufacturer" itemscope="" itemtype="http://schema.org/Organization" style="line-height: 24px;">
+<strong class="result-information" itemprop="name">
+<a href="/journaux/courrier-francais-edition-de-la-gironde">
+Courrier Français /Edition de la Gironde
+<17>
+<18>
+</dd>
+</dl>
+<meta itemprop="description" content="133003 Par acte SSP du 05/03/2020, il a été constitue une SCI ayant les caractéristiques suivantes : Dénomination : sci olive et jo Objet social : IMMOBILIER Siège social : 2 bis Rue Buhan, 33000 Bordeaux. Capital : 200 € Durée : 99 ans Gérance : M. dessertenne jonas,  Demeurant 2 bis Rue Buhan, 33000 Bordeaux, M. le bourhis olivier, demeurant 17 Chemin de Loustalot, 33450 Saint Loubès. ..."/>
+<div class="col-xs-12 annonce-detail">
+<h3 class="h4" style="margin-bottom: 25px !important; margin-top: 15px !important;">
+Texte original de l'annonce légale* :
+<19>
+<p class="content" style="font-size: 1em; margin-bottom:25px;">
+
+133003 Par acte SSP du 05/03/2020, il a été constitue une SCI ayant les caractéristiques suivantes : Dénomination : sci olive et jo Objet social : IMMOBILIER Siège social : 2 bis Rue Buhan, 33000 Bordeaux. Capital : 200 € Durée : 99 ans Gérance : M. dessertenne jonas,  Demeurant 2 bis Rue Buhan, 33000 Bordeaux, M. le bourhis olivier, demeurant 17 Chemin de Loustalot, 33450 Saint Loubès. Immatriculation au RCS de Bordeaux
+<20>
+<21>
+<FINBALISE>
+<DEBUTBALISE>
+<meta itemprop="url" content="/annonce-legale/1013046459"/>
+<meta itemprop="productID" content="1013046459"/>
+<meta itemprop="releaseDate" content="2020-04-18"/>
+<h2 class="entreprise-title" style="max-width: 720px;line-height:130%;">
+<a href="/annonce-legale/1013046459">
+<span itemprop="name">
+<span class="hidden">
+LOUJO :
+<1>
+Création d'entreprise
+<2>
+<3>
+<4>
+<small class="hidden">
+<a href="https://actulegales.fr/recherche/siren/882298219">
+<5>
+LOUJO
+<6>
+(Siren : 882298219)
+<7>
+</small>
+<span class="block entreprise-adresse">
+<8>
+47150
+<9>
+<10>
+MONFLANQUIN
+<11>
+<12>
+<dl style="line-height: 24px; margin-bottom:15px">
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="alicons alicons-calendar">
+</i>
+Date
+<13>
+:
+</dt>
+<dd>
+<span style="line-height: 24px;" class="date-content">
+<strong itemprop="releaseDate" content="2020-04-18">
+18 Avril 2020
+<14>
+<15>
+</dd>
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="fa fa-newspaper-o">
+</i>
+Paru dans
+<16>
+:
+</dt>
+<dd itemprop="manufacturer" itemscope="" itemtype="http://schema.org/Organization" style="line-height: 24px;">
+<strong class="result-information" itemprop="name">
+<a href="/journaux/petit-journal-edition-de-l-ariege">
+Petit Journal (Le)/Edition de l'Ariège
+<17>
+<18>
+</dd>
+</dl>
+<meta itemprop="description" content="Cette annonce aurait du paraître le 14/04/2020 CONSTITUTION Création de la sci LOUJO LD le laurent 47150 Monflanquin. Capital : 100€. Objet : immobilier. Gerant : Sabine Sanchez, LD le laurent 47150 Monflanquin. 99 ans au RCS de Agen..."/>
+<div class="col-xs-12 annonce-detail">
+<h3 class="h4" style="margin-bottom: 25px !important; margin-top: 15px !important;">
+Texte original de l'annonce légale* :
+<19>
+<p class="content" style="font-size: 1em; margin-bottom:25px;">
+
+Cette annonce aurait du paraître le 14/04/2020 CONSTITUTION Création de la sci LOUJO LD le laurent 47150 Monflanquin. Capital : 100€. Objet : immobilier. Gerant : Sabine Sanchez, LD le laurent 47150 Monflanquin. 99 ans au RCS de Agen
+<20>
+<21>
+<FINBALISE>
+<DEBUTBALISE>
+<meta itemprop="url" content="/annonce-legale/1013046527"/>
+<meta itemprop="productID" content="1013046527"/>
+<meta itemprop="releaseDate" content="2020-04-18"/>
+<h2 class="entreprise-title" style="max-width: 720px;line-height:130%;">
+<a href="/annonce-legale/1013046527">
+<span itemprop="name">
+<span class="hidden">
+LOUJO :
+<1>
+Création d'entreprise
+<2>
+<3>
+<4>
+<small class="hidden">
+<a href="https://actulegales.fr/recherche/siren/882298219">
+<5>
+LOUJO
+<6>
+(Siren : 882298219)
+<7>
+</small>
+<span class="block entreprise-adresse">
+<8>
+47150
+<9>
+<10>
+MONFLANQUIN
+<11>
+<12>
+<dl style="line-height: 24px; margin-bottom:15px">
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="alicons alicons-calendar">
+</i>
+Date
+<13>
+:
+</dt>
+<dd>
+<span style="line-height: 24px;" class="date-content">
+<strong itemprop="releaseDate" content="2020-04-18">
+18 Avril 2020
+<14>
+<15>
+</dd>
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="fa fa-newspaper-o">
+</i>
+Paru dans
+<16>
+:
+</dt>
+<dd itemprop="manufacturer" itemscope="" itemtype="http://schema.org/Organization" style="line-height: 24px;">
+<strong class="result-information" itemprop="name">
+<a href="/journaux/petit-journal-edition-de-l-aude">
+Petit Journal (Le)/Edition de l'Aude
+<17>
+<18>
+</dd>
+</dl>
+<meta itemprop="description" content="Cette annonce aurait du paraître le 14/04/2020 CONSTITUTION Création de la sci LOUJO LD le laurent 47150 Monflanquin. Capital : 100€. Objet : immobilier. Gerant : Sabine Sanchez, LD le laurent 47150 Monflanquin. 99 ans au RCS de Agen..."/>
+<div class="col-xs-12 annonce-detail">
+<h3 class="h4" style="margin-bottom: 25px !important; margin-top: 15px !important;">
+Texte original de l'annonce légale* :
+<19>
+<p class="content" style="font-size: 1em; margin-bottom:25px;">
+
+Cette annonce aurait du paraître le 14/04/2020 CONSTITUTION Création de la sci LOUJO LD le laurent 47150 Monflanquin. Capital : 100€. Objet : immobilier. Gerant : Sabine Sanchez, LD le laurent 47150 Monflanquin. 99 ans au RCS de Agen
+<20>
+<21>
+<FINBALISE>
+<DEBUTBALISE>
+<meta itemprop="url" content="/annonce-legale/1013046615"/>
+<meta itemprop="productID" content="1013046615"/>
+<meta itemprop="releaseDate" content="2020-04-18"/>
+<h2 class="entreprise-title" style="max-width: 720px;line-height:130%;">
+<a href="/annonce-legale/1013046615">
+<span itemprop="name">
+<span class="hidden">
+LOUJO :
+<1>
+Création d'entreprise
+<2>
+<3>
+<4>
+<small class="hidden">
+<a href="https://actulegales.fr/recherche/siren/882298219">
+<5>
+LOUJO
+<6>
+(Siren : 882298219)
+<7>
+</small>
+<span class="block entreprise-adresse">
+<8>
+47150
+<9>
+<10>
+MONFLANQUIN
+<11>
+<12>
+<dl style="line-height: 24px; margin-bottom:15px">
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="alicons alicons-calendar">
+</i>
+Date
+<13>
+:
+</dt>
+<dd>
+<span style="line-height: 24px;" class="date-content">
+<strong itemprop="releaseDate" content="2020-04-18">
+18 Avril 2020
+<14>
+<15>
+</dd>
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="fa fa-newspaper-o">
+</i>
+Paru dans
+<16>
+:
+</dt>
+<dd itemprop="manufacturer" itemscope="" itemtype="http://schema.org/Organization" style="line-height: 24px;">
+<strong class="result-information" itemprop="name">
+<a href="/journaux/petit-journal-edition-de-l-aveyron">
+Petit Journal (Le)/Edition Aveyron
+<17>
+<18>
+</dd>
+</dl>
+<meta itemprop="description" content="Cette annonce aurait du paraître le 14/04/2020 CONSTITUTION Création de la sci LOUJO LD le laurent 47150 Monflanquin. Capital : 100€. Objet : immobilier. Gerant : Sabine Sanchez, LD le laurent 47150 Monflanquin. 99 ans au RCS de Agen..."/>
+<div class="col-xs-12 annonce-detail">
+<h3 class="h4" style="margin-bottom: 25px !important; margin-top: 15px !important;">
+Texte original de l'annonce légale* :
+<19>
+<p class="content" style="font-size: 1em; margin-bottom:25px;">
+
+Cette annonce aurait du paraître le 14/04/2020 CONSTITUTION Création de la sci LOUJO LD le laurent 47150 Monflanquin. Capital : 100€. Objet : immobilier. Gerant : Sabine Sanchez, LD le laurent 47150 Monflanquin. 99 ans au RCS de Agen
+<20>
+<21>
+<FINBALISE>
+<DEBUTBALISE>
+<meta itemprop="url" content="/annonce-legale/1013047202"/>
+<meta itemprop="productID" content="1013047202"/>
+<meta itemprop="releaseDate" content="2020-04-18"/>
+<h2 class="entreprise-title" style="max-width: 720px;line-height:130%;">
+<a href="/annonce-legale/1013047202">
+<span itemprop="name">
+<span class="hidden">
+LOUJO :
+<1>
+Création d'entreprise
+<2>
+<3>
+<4>
+<small class="hidden">
+<a href="https://actulegales.fr/recherche/siren/882298219">
+<5>
+LOUJO
+<6>
+(Siren : 882298219)
+<7>
+</small>
+<span class="block entreprise-adresse">
+<8>
+47150
+<9>
+<10>
+MONFLANQUIN
+<11>
+<12>
+<dl style="line-height: 24px; margin-bottom:15px">
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="alicons alicons-calendar">
+</i>
+Date
+<13>
+:
+</dt>
+<dd>
+<span style="line-height: 24px;" class="date-content">
+<strong itemprop="releaseDate" content="2020-04-18">
+18 Avril 2020
+<14>
+<15>
+</dd>
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="fa fa-newspaper-o">
+</i>
+Paru dans
+<16>
+:
+</dt>
+<dd itemprop="manufacturer" itemscope="" itemtype="http://schema.org/Organization" style="line-height: 24px;">
+<strong class="result-information" itemprop="name">
+<a href="/journaux/petit-journal-edition-du-gers">
+Petit Journal (Le) /Edition du Gers
+<17>
+<18>
+</dd>
+</dl>
+<meta itemprop="description" content="Cette annonce aurait du paraître le 14/04/2020 CONSTITUTION Création de la sci LOUJO LD le laurent 47150 Monflanquin. Capital : 100€. Objet : immobilier. Gerant : Sabine Sanchez, LD le laurent 47150 Monflanquin. 99 ans au RCS de Agen..."/>
+<div class="col-xs-12 annonce-detail">
+<h3 class="h4" style="margin-bottom: 25px !important; margin-top: 15px !important;">
+Texte original de l'annonce légale* :
+<19>
+<p class="content" style="font-size: 1em; margin-bottom:25px;">
+
+Cette annonce aurait du paraître le 14/04/2020 CONSTITUTION Création de la sci LOUJO LD le laurent 47150 Monflanquin. Capital : 100€. Objet : immobilier. Gerant : Sabine Sanchez, LD le laurent 47150 Monflanquin. 99 ans au RCS de Agen
+<20>
+<21>
+<FINBALISE>
+<DEBUTBALISE>
+<meta itemprop="url" content="/annonce-legale/1013047471"/>
+<meta itemprop="productID" content="1013047471"/>
+<meta itemprop="releaseDate" content="2020-04-18"/>
+<h2 class="entreprise-title" style="max-width: 720px;line-height:130%;">
+<a href="/annonce-legale/1013047471">
+<span itemprop="name">
+<span class="hidden">
+LOUJO :
+<1>
+Création d'entreprise
+<2>
+<3>
+<4>
+<small class="hidden">
+<a href="https://actulegales.fr/recherche/siren/882298219">
+<5>
+LOUJO
+<6>
+(Siren : 882298219)
+<7>
+</small>
+<span class="block entreprise-adresse">
+<8>
+47150
+<9>
+<10>
+MONFLANQUIN
+<11>
+<12>
+<dl style="line-height: 24px; margin-bottom:15px">
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="alicons alicons-calendar">
+</i>
+Date
+<13>
+:
+</dt>
+<dd>
+<span style="line-height: 24px;" class="date-content">
+<strong itemprop="releaseDate" content="2020-04-18">
+18 Avril 2020
+<14>
+<15>
+</dd>
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="fa fa-newspaper-o">
+</i>
+Paru dans
+<16>
+:
+</dt>
+<dd itemprop="manufacturer" itemscope="" itemtype="http://schema.org/Organization" style="line-height: 24px;">
+<strong class="result-information" itemprop="name">
+<a href="/journaux/petit-journal-edition-de-l-herault">
+Petit Journal (Le) / Edition de l'Hérault
+<17>
+<18>
+</dd>
+</dl>
+<meta itemprop="description" content="Cette annonce aurait du paraître le 14/04/2020 CONSTITUTION Création de la sci LOUJO LD le laurent 47150 Monflanquin. Capital : 100€. Objet : immobilier. Gerant : Sabine Sanchez, LD le laurent 47150 Monflanquin. 99 ans au RCS de Agen..."/>
+<div class="col-xs-12 annonce-detail">
+<h3 class="h4" style="margin-bottom: 25px !important; margin-top: 15px !important;">
+Texte original de l'annonce légale* :
+<19>
+<p class="content" style="font-size: 1em; margin-bottom:25px;">
+
+Cette annonce aurait du paraître le 14/04/2020 CONSTITUTION Création de la sci LOUJO LD le laurent 47150 Monflanquin. Capital : 100€. Objet : immobilier. Gerant : Sabine Sanchez, LD le laurent 47150 Monflanquin. 99 ans au RCS de Agen
+<20>
+<21>
+<FINBALISE>
+<DEBUTBALISE>
+<meta itemprop="url" content="/annonce-legale/1013047870"/>
+<meta itemprop="productID" content="1013047870"/>
+<meta itemprop="releaseDate" content="2020-04-18"/>
+<h2 class="entreprise-title" style="max-width: 720px;line-height:130%;">
+<a href="/annonce-legale/1013047870">
+<span itemprop="name">
+<span class="hidden">
+LOUJO :
+<1>
+Création d'entreprise
+<2>
+<3>
+<4>
+<small class="hidden">
+<a href="https://actulegales.fr/recherche/siren/882298219">
+<5>
+LOUJO
+<6>
+(Siren : 882298219)
+<7>
+</small>
+<span class="block entreprise-adresse">
+<8>
+47150
+<9>
+<10>
+MONFLANQUIN
+<11>
+<12>
+<dl style="line-height: 24px; margin-bottom:15px">
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="alicons alicons-calendar">
+</i>
+Date
+<13>
+:
+</dt>
+<dd>
+<span style="line-height: 24px;" class="date-content">
+<strong itemprop="releaseDate" content="2020-04-18">
+18 Avril 2020
+<14>
+<15>
+</dd>
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="fa fa-newspaper-o">
+</i>
+Paru dans
+<16>
+:
+</dt>
+<dd itemprop="manufacturer" itemscope="" itemtype="http://schema.org/Organization" style="line-height: 24px;">
+<strong class="result-information" itemprop="name">
+<a href="/journaux/petit-journal-edition-du-lot">
+Petit Journal (Le) /Edition du Lot
+<17>
+<18>
+</dd>
+</dl>
+<meta itemprop="description" content="Cette annonce aurait du paraître le 14/04/2020 CONSTITUTION Création de la sci LOUJO LD le laurent 47150 Monflanquin. Capital : 100€. Objet : immobilier. Gerant : Sabine Sanchez, LD le laurent 47150 Monflanquin. 99 ans au RCS de Agen..."/>
+<div class="col-xs-12 annonce-detail">
+<h3 class="h4" style="margin-bottom: 25px !important; margin-top: 15px !important;">
+Texte original de l'annonce légale* :
+<19>
+<p class="content" style="font-size: 1em; margin-bottom:25px;">
+
+Cette annonce aurait du paraître le 14/04/2020 CONSTITUTION Création de la sci LOUJO LD le laurent 47150 Monflanquin. Capital : 100€. Objet : immobilier. Gerant : Sabine Sanchez, LD le laurent 47150 Monflanquin. 99 ans au RCS de Agen
+<20>
+<21>
+<FINBALISE>
+<DEBUTBALISE>
+<meta itemprop="url" content="/annonce-legale/1013047938"/>
+<meta itemprop="productID" content="1013047938"/>
+<meta itemprop="releaseDate" content="2020-04-18"/>
+<h2 class="entreprise-title" style="max-width: 720px;line-height:130%;">
+<a href="/annonce-legale/1013047938">
+<span itemprop="name">
+<span class="hidden">
+LOUJO :
+<1>
+Création d'entreprise
+<2>
+<3>
+<4>
+<small class="hidden">
+<a href="https://actulegales.fr/recherche/siren/882298219">
+<5>
+LOUJO
+<6>
+(Siren : 882298219)
+<7>
+</small>
+<span class="block entreprise-adresse">
+<8>
+47150
+<9>
+<10>
+MONFLANQUIN
+<11>
+<12>
+<dl style="line-height: 24px; margin-bottom:15px">
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="alicons alicons-calendar">
+</i>
+Date
+<13>
+:
+</dt>
+<dd>
+<span style="line-height: 24px;" class="date-content">
+<strong itemprop="releaseDate" content="2020-04-18">
+18 Avril 2020
+<14>
+<15>
+</dd>
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="fa fa-newspaper-o">
+</i>
+Paru dans
+<16>
+:
+</dt>
+<dd itemprop="manufacturer" itemscope="" itemtype="http://schema.org/Organization" style="line-height: 24px;">
+<strong class="result-information" itemprop="name">
+<a href="/journal-inconnu/47341">
+Petit Journal (Le) /Edition du Lot et Garonne
+<17>
+<18>
+</dd>
+</dl>
+<meta itemprop="description" content="Cette annonce aurait du paraître le 14/04/2020 CONSTITUTION Création de la sci LOUJO LD le laurent 47150 Monflanquin. Capital : 100€. Objet : immobilier. Gerant : Sabine Sanchez, LD le laurent 47150 Monflanquin. 99 ans au RCS de Agen..."/>
+<div class="col-xs-12 annonce-detail">
+<h3 class="h4" style="margin-bottom: 25px !important; margin-top: 15px !important;">
+Texte original de l'annonce légale* :
+<19>
+<p class="content" style="font-size: 1em; margin-bottom:25px;">
+
+Cette annonce aurait du paraître le 14/04/2020 CONSTITUTION Création de la sci LOUJO LD le laurent 47150 Monflanquin. Capital : 100€. Objet : immobilier. Gerant : Sabine Sanchez, LD le laurent 47150 Monflanquin. 99 ans au RCS de Agen
+<20>
+<21>
+<FINBALISE>
+<DEBUTBALISE>
+<meta itemprop="url" content="/annonce-legale/1013048780"/>
+<meta itemprop="productID" content="1013048780"/>
+<meta itemprop="releaseDate" content="2020-04-18"/>
+<h2 class="entreprise-title" style="max-width: 720px;line-height:130%;">
+<a href="/annonce-legale/1013048780">
+<span itemprop="name">
+<span class="hidden">
+LOUJO :
+<1>
+Création d'entreprise
+<2>
+<3>
+<4>
+<small class="hidden">
+<a href="https://actulegales.fr/recherche/siren/882298219">
+<5>
+LOUJO
+<6>
+(Siren : 882298219)
+<7>
+</small>
+<span class="block entreprise-adresse">
+<8>
+47150
+<9>
+<10>
+MONFLANQUIN
+<11>
+<12>
+<dl style="line-height: 24px; margin-bottom:15px">
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="alicons alicons-calendar">
+</i>
+Date
+<13>
+:
+</dt>
+<dd>
+<span style="line-height: 24px;" class="date-content">
+<strong itemprop="releaseDate" content="2020-04-18">
+18 Avril 2020
+<14>
+<15>
+</dd>
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="fa fa-newspaper-o">
+</i>
+Paru dans
+<16>
+:
+</dt>
+<dd itemprop="manufacturer" itemscope="" itemtype="http://schema.org/Organization" style="line-height: 24px;">
+<strong class="result-information" itemprop="name">
+<a href="/journaux/petit-journal-edition-de-haute-pyrenees">
+Petit Journal (Le)/Edition de Haute Pyrénées
+<17>
+<18>
+</dd>
+</dl>
+<meta itemprop="description" content="Cette annonce aurait du paraître le 14/04/2020 CONSTITUTION Création de la sci LOUJO LD le laurent 47150 Monflanquin. Capital : 100€. Objet : immobilier. Gerant : Sabine Sanchez, LD le laurent 47150 Monflanquin. 99 ans au RCS de Agen..."/>
+<div class="col-xs-12 annonce-detail">
+<h3 class="h4" style="margin-bottom: 25px !important; margin-top: 15px !important;">
+Texte original de l'annonce légale* :
+<19>
+<p class="content" style="font-size: 1em; margin-bottom:25px;">
+
+Cette annonce aurait du paraître le 14/04/2020 CONSTITUTION Création de la sci LOUJO LD le laurent 47150 Monflanquin. Capital : 100€. Objet : immobilier. Gerant : Sabine Sanchez, LD le laurent 47150 Monflanquin. 99 ans au RCS de Agen
+<20>
+<21>
+<FINBALISE>
+<DEBUTBALISE>
+<meta itemprop="url" content="/annonce-legale/1013048846"/>
+<meta itemprop="productID" content="1013048846"/>
+<meta itemprop="releaseDate" content="2020-04-18"/>
+<h2 class="entreprise-title" style="max-width: 720px;line-height:130%;">
+<a href="/annonce-legale/1013048846">
+<span itemprop="name">
+<span class="hidden">
+LOUJO :
+<1>
+Création d'entreprise
+<2>
+<3>
+<4>
+<small class="hidden">
+<a href="https://actulegales.fr/recherche/siren/882298219">
+<5>
+LOUJO
+<6>
+(Siren : 882298219)
+<7>
+</small>
+<span class="block entreprise-adresse">
+<8>
+47150
+<9>
+<10>
+MONFLANQUIN
+<11>
+<12>
+<dl style="line-height: 24px; margin-bottom:15px">
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="alicons alicons-calendar">
+</i>
+Date
+<13>
+:
+</dt>
+<dd>
+<span style="line-height: 24px;" class="date-content">
+<strong itemprop="releaseDate" content="2020-04-18">
+18 Avril 2020
+<14>
+<15>
+</dd>
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="fa fa-newspaper-o">
+</i>
+Paru dans
+<16>
+:
+</dt>
+<dd itemprop="manufacturer" itemscope="" itemtype="http://schema.org/Organization" style="line-height: 24px;">
+<strong class="result-information" itemprop="name">
+<a href="/journaux/petit-journal-edition-des-pyrenees-orientales">
+Petit Journal (Le) /Edition des Pyrénées Orientales
+<17>
+<18>
+</dd>
+</dl>
+<meta itemprop="description" content="Cette annonce aurait du paraître le 14/04/2020 CONSTITUTION Création de la sci LOUJO LD le laurent 47150 Monflanquin. Capital : 100€. Objet : immobilier. Gerant : Sabine Sanchez, LD le laurent 47150 Monflanquin. 99 ans au RCS de Agen..."/>
+<div class="col-xs-12 annonce-detail">
+<h3 class="h4" style="margin-bottom: 25px !important; margin-top: 15px !important;">
+Texte original de l'annonce légale* :
+<19>
+<p class="content" style="font-size: 1em; margin-bottom:25px;">
+
+Cette annonce aurait du paraître le 14/04/2020 CONSTITUTION Création de la sci LOUJO LD le laurent 47150 Monflanquin. Capital : 100€. Objet : immobilier. Gerant : Sabine Sanchez, LD le laurent 47150 Monflanquin. 99 ans au RCS de Agen
+<20>
+<21>
+<FINBALISE>
+<DEBUTBALISE>
+<meta itemprop="url" content="/annonce-legale/1013049954"/>
+<meta itemprop="productID" content="1013049954"/>
+<meta itemprop="releaseDate" content="2020-04-18"/>
+<h2 class="entreprise-title" style="max-width: 720px;line-height:130%;">
+<a href="/annonce-legale/1013049954">
+<span itemprop="name">
+<span class="hidden">
+LOUJO :
+<1>
+Création d'entreprise
+<2>
+<3>
+<4>
+<small class="hidden">
+<a href="https://actulegales.fr/recherche/siren/882298219">
+<5>
+LOUJO
+<6>
+(Siren : 882298219)
+<7>
+</small>
+<span class="block entreprise-adresse">
+<8>
+47150
+<9>
+<10>
+MONFLANQUIN
+<11>
+<12>
+<dl style="line-height: 24px; margin-bottom:15px">
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="alicons alicons-calendar">
+</i>
+Date
+<13>
+:
+</dt>
+<dd>
+<span style="line-height: 24px;" class="date-content">
+<strong itemprop="releaseDate" content="2020-04-18">
+18 Avril 2020
+<14>
+<15>
+</dd>
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="fa fa-newspaper-o">
+</i>
+Paru dans
+<16>
+:
+</dt>
+<dd itemprop="manufacturer" itemscope="" itemtype="http://schema.org/Organization" style="line-height: 24px;">
+<strong class="result-information" itemprop="name">
+<a href="/journaux/petit-journal-edition-du-tarn-et-garonne">
+Petit Journal (Le) /Edition du Tarn et Garonne
+<17>
+<18>
+</dd>
+</dl>
+<meta itemprop="description" content="Cette annonce aurait du paraître le 14/04/2020 CONSTITUTION Création de la sci LOUJO LD le laurent 47150 Monflanquin. Capital : 100€. Objet : immobilier. Gerant : Sabine Sanchez, LD le laurent 47150 Monflanquin. 99 ans au RCS de Agen..."/>
+<div class="col-xs-12 annonce-detail">
+<h3 class="h4" style="margin-bottom: 25px !important; margin-top: 15px !important;">
+Texte original de l'annonce légale* :
+<19>
+<p class="content" style="font-size: 1em; margin-bottom:25px;">
+
+Cette annonce aurait du paraître le 14/04/2020 CONSTITUTION Création de la sci LOUJO LD le laurent 47150 Monflanquin. Capital : 100€. Objet : immobilier. Gerant : Sabine Sanchez, LD le laurent 47150 Monflanquin. 99 ans au RCS de Agen
+<20>
+<21>
+<FINBALISE>
+<DEBUTBALISE>
+<meta itemprop="url" content="/annonce-legale/1013032870"/>
+<meta itemprop="productID" content="1013032870"/>
+<meta itemprop="releaseDate" content="2020-04-10"/>
+<h2 class="entreprise-title" style="max-width: 720px;line-height:130%;">
+<a href="/annonce-legale/1013032870">
+<span itemprop="name">
+<span class="hidden">
+DVH IMMOBILIER :
+<1>
+Création d'entreprise
+<2>
+<3>
+<4>
+<small class="hidden">
+<a href="https://actulegales.fr/recherche/siren/882300494">
+<5>
+DVH IMMOBILIER
+<6>
+(Siren : 882300494)
+<7>
+</small>
+<span class="block entreprise-adresse">
+<8>
+37540
+<9>
+<10>
+ST CYR SUR LOIRE
+<11>
+<12>
+<dl style="line-height: 24px; margin-bottom:15px">
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="alicons alicons-calendar">
+</i>
+Date
+<13>
+:
+</dt>
+<dd>
+<span style="line-height: 24px;" class="date-content">
+<strong itemprop="releaseDate" content="2020-04-10">
+10 Avril 2020
+<14>
+<15>
+</dd>
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="fa fa-newspaper-o">
+</i>
+Paru dans
+<16>
+:
+</dt>
+<dd itemprop="manufacturer" itemscope="" itemtype="http://schema.org/Organization" style="line-height: 24px;">
+<strong class="result-information" itemprop="name">
+<a href="/journaux/action-agricole-de-touraine">
+Action Agricole de Touraine (L')
+<17>
+<18>
+</dd>
+</dl>
+<meta itemprop="description" content="Par ASSP le 05/03/2020, il a éte constitué la SCI : DVH IMMOBILIER Capital : 500€. Objet : L’acquisition et gestion civile de biens immobiliers en vue de location non meublée et accessoirement meublée. Siège et Gérance : VAN HULLE Eddy 117 B av. de la République, 37540 ST CYR SUR LOIRE. DESMARECAUX Benoit 16 ch. du Vieux Chêne, 27500 Manneville-sur-Risle. Durée : 99 ans. Au RCS de TOU..."/>
+<div class="col-xs-12 annonce-detail">
+<h3 class="h4" style="margin-bottom: 25px !important; margin-top: 15px !important;">
+Texte original de l'annonce légale* :
+<19>
+<p class="content" style="font-size: 1em; margin-bottom:25px;">
+
+Par ASSP le 05/03/2020, il a éte constitué la SCI : DVH IMMOBILIER Capital : 500€. Objet : L’acquisition et gestion civile de biens immobiliers en vue de location non meublée et accessoirement meublée. Siège et Gérance : VAN HULLE Eddy 117 B av. de la République, 37540 ST CYR SUR LOIRE. DESMARECAUX Benoit 16 ch. du Vieux Chêne, 27500 Manneville-sur-Risle. Durée : 99 ans. Au RCS de TOURS
+<20>
+<21>
+<FINBALISE>
+<DEBUTBALISE>
+<meta itemprop="url" content="/annonce-legale/1013054840"/>
+<meta itemprop="productID" content="1013054840"/>
+<meta itemprop="releaseDate" content="2020-04-24"/>
+<h2 class="entreprise-title" style="max-width: 720px;line-height:130%;">
+<a href="/annonce-legale/1013054840">
+<span itemprop="name">
+<span class="hidden">
+SCI AU PETRIN DE NANTERRE :
+<1>
+Création d'entreprise
+<2>
+<3>
+<4>
+<small class="hidden">
+<a href="https://actulegales.fr/recherche/siren/882301971">
+<5>
+SCI AU PETRIN DE NANTERRE
+<6>
+(Siren : 882301971)
+<7>
+</small>
+<span class="block entreprise-adresse">
+<8>
+75012
+<9>
+<10>
+PARIS 12
+<11>
+<12>
+<dl style="line-height: 24px; margin-bottom:15px">
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="alicons alicons-calendar">
+</i>
+Date
+<13>
+:
+</dt>
+<dd>
+<span style="line-height: 24px;" class="date-content">
+<strong itemprop="releaseDate" content="2020-04-24">
+24 Avril 2020
+<14>
+<15>
+</dd>
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="fa fa-newspaper-o">
+</i>
+Paru dans
+<16>
+:
+</dt>
+<dd itemprop="manufacturer" itemscope="" itemtype="http://schema.org/Organization" style="line-height: 24px;">
+<strong class="result-information" itemprop="name">
+<a href="/journaux/nouvel-economiste">
+Nouvel Economiste (Le)
+<17>
+<18>
+</dd>
+</dl>
+<meta itemprop="description" content="..."/>
+<div class="col-xs-12 annonce-detail">
+<h3 class="h4" style="margin-bottom: 25px !important; margin-top: 15px !important;">
+Texte original de l'annonce légale* :
+<19>
+<p class="content" style="font-size: 1em; margin-bottom:25px;">
+
+Par acte SSP du 14/02/2020 il a éte constitué une Société Civile dénommée: SCI AU PETRIN DE NANTERRE Siège social : 261 avenue Daumesnil 75012 PARIS Capital : 500 € Objet : Acquisition, administration et gestion de tous biens immobiliers Gérance : M. GONCALVES DA FONTE Manuel, 5 rue du Maréchal Lyautey 94170 LE PERREUX SUR MARNE,  M. MEKS Alexandre, 28 avenue de Suffren 75015 PARIS Durée : 99 ans à compter de l’immatriculation au RCS de PARIS AL0420-113797
+<20>
+<21>
+<FINBALISE>
+<DEBUTBALISE>
+<meta itemprop="url" content="/annonce-legale/1013032093"/>
+<meta itemprop="productID" content="1013032093"/>
+<meta itemprop="releaseDate" content="2020-04-11"/>
+<h2 class="entreprise-title" style="max-width: 720px;line-height:130%;">
+<a href="/annonce-legale/1013032093">
+<span itemprop="name">
+<span class="hidden">
+VALPALOC :
+<1>
+Création d'entreprise
+<2>
+<3>
+<4>
+<small class="hidden">
+<a href="https://actulegales.fr/recherche/siren/882302995">
+<5>
+VALPALOC
+<6>
+(Siren : 882302995)
+<7>
+</small>
+<span class="block entreprise-adresse">
+<8>
+09220
+<9>
+<10>
+SIGUER
+<11>
+<12>
+<dl style="line-height: 24px; margin-bottom:15px">
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="alicons alicons-calendar">
+</i>
+Date
+<13>
+:
+</dt>
+<dd>
+<span style="line-height: 24px;" class="date-content">
+<strong itemprop="releaseDate" content="2020-04-11">
+11 Avril 2020
+<14>
+<15>
+</dd>
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="fa fa-newspaper-o">
+</i>
+Paru dans
+<16>
+:
+</dt>
+<dd itemprop="manufacturer" itemscope="" itemtype="http://schema.org/Organization" style="line-height: 24px;">
+<strong class="result-information" itemprop="name">
+<a href="/journaux/petit-journal-edition-de-l-ariege">
+Petit Journal (Le)/Edition de l'Ariège
+<17>
+<18>
+</dd>
+</dl>
+<meta itemprop="description" content="Cette annonce aurait du paraître le 09 avril 2020 CONSTITUTION Création de la sci VALPALOC 1 ham.de canarilles 09220 siguer. Cap.: 400€. Obj.Immobilier. Grt.: patrick marceillac,331 che.des agries 31860 labarthe/leze. 99ans au rcs de foix..."/>
+<div class="col-xs-12 annonce-detail">
+<h3 class="h4" style="margin-bottom: 25px !important; margin-top: 15px !important;">
+Texte original de l'annonce légale* :
+<19>
+<p class="content" style="font-size: 1em; margin-bottom:25px;">
+
+Cette annonce aurait du paraître le 09 avril 2020 CONSTITUTION Création de la sci VALPALOC 1 ham.de canarilles 09220 siguer. Cap.: 400€. Obj.Immobilier. Grt.: patrick marceillac,331 che.des agries 31860 labarthe/leze. 99ans au rcs de foix
+<20>
+<21>
+<FINBALISE>
+<DEBUTBALISE>
+<meta itemprop="url" content="/annonce-legale/1013032181"/>
+<meta itemprop="productID" content="1013032181"/>
+<meta itemprop="releaseDate" content="2020-04-11"/>
+<h2 class="entreprise-title" style="max-width: 720px;line-height:130%;">
+<a href="/annonce-legale/1013032181">
+<span itemprop="name">
+<span class="hidden">
+VALPALOC :
+<1>
+Création d'entreprise
+<2>
+<3>
+<4>
+<small class="hidden">
+<a href="https://actulegales.fr/recherche/siren/882302995">
+<5>
+VALPALOC
+<6>
+(Siren : 882302995)
+<7>
+</small>
+<span class="block entreprise-adresse">
+<8>
+09220
+<9>
+<10>
+SIGUER
+<11>
+<12>
+<dl style="line-height: 24px; margin-bottom:15px">
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="alicons alicons-calendar">
+</i>
+Date
+<13>
+:
+</dt>
+<dd>
+<span style="line-height: 24px;" class="date-content">
+<strong itemprop="releaseDate" content="2020-04-11">
+11 Avril 2020
+<14>
+<15>
+</dd>
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="fa fa-newspaper-o">
+</i>
+Paru dans
+<16>
+:
+</dt>
+<dd itemprop="manufacturer" itemscope="" itemtype="http://schema.org/Organization" style="line-height: 24px;">
+<strong class="result-information" itemprop="name">
+<a href="/journaux/petit-journal-edition-de-l-aude">
+Petit Journal (Le)/Edition de l'Aude
+<17>
+<18>
+</dd>
+</dl>
+<meta itemprop="description" content="Cette annonce aurait du paraître le 09 avril 2020 CONSTITUTION Création de la sci VALPALOC 1 ham.de canarilles 09220 siguer. Cap.: 400€. Obj.Immobilier. Grt.: patrick marceillac,331 che.des agries 31860 labarthe/leze. 99ans au rcs de foix..."/>
+<div class="col-xs-12 annonce-detail">
+<h3 class="h4" style="margin-bottom: 25px !important; margin-top: 15px !important;">
+Texte original de l'annonce légale* :
+<19>
+<p class="content" style="font-size: 1em; margin-bottom:25px;">
+
+Cette annonce aurait du paraître le 09 avril 2020 CONSTITUTION Création de la sci VALPALOC 1 ham.de canarilles 09220 siguer. Cap.: 400€. Obj.Immobilier. Grt.: patrick marceillac,331 che.des agries 31860 labarthe/leze. 99ans au rcs de foix
+<20>
+<21>
+<FINBALISE>
+<DEBUTBALISE>
+<meta itemprop="url" content="/annonce-legale/1013032256"/>
+<meta itemprop="productID" content="1013032256"/>
+<meta itemprop="releaseDate" content="2020-04-11"/>
+<h2 class="entreprise-title" style="max-width: 720px;line-height:130%;">
+<a href="/annonce-legale/1013032256">
+<span itemprop="name">
+<span class="hidden">
+VALPALOC :
+<1>
+Création d'entreprise
+<2>
+<3>
+<4>
+<small class="hidden">
+<a href="https://actulegales.fr/recherche/siren/882302995">
+<5>
+VALPALOC
+<6>
+(Siren : 882302995)
+<7>
+</small>
+<span class="block entreprise-adresse">
+<8>
+09220
+<9>
+<10>
+SIGUER
+<11>
+<12>
+<dl style="line-height: 24px; margin-bottom:15px">
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="alicons alicons-calendar">
+</i>
+Date
+<13>
+:
+</dt>
+<dd>
+<span style="line-height: 24px;" class="date-content">
+<strong itemprop="releaseDate" content="2020-04-11">
+11 Avril 2020
+<14>
+<15>
+</dd>
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="fa fa-newspaper-o">
+</i>
+Paru dans
+<16>
+:
+</dt>
+<dd itemprop="manufacturer" itemscope="" itemtype="http://schema.org/Organization" style="line-height: 24px;">
+<strong class="result-information" itemprop="name">
+<a href="/journaux/petit-journal-edition-de-l-aveyron">
+Petit Journal (Le)/Edition Aveyron
+<17>
+<18>
+</dd>
+</dl>
+<meta itemprop="description" content="Cette annonce aurait du paraître le 09 avril 2020 CONSTITUTION Création de la sci VALPALOC 1 ham.de canarilles 09220 siguer. Cap.: 400€. Obj.Immobilier. Grt.: patrick marceillac,331 che.des agries 31860 labarthe/leze. 99ans au rcs de foix..."/>
+<div class="col-xs-12 annonce-detail">
+<h3 class="h4" style="margin-bottom: 25px !important; margin-top: 15px !important;">
+Texte original de l'annonce légale* :
+<19>
+<p class="content" style="font-size: 1em; margin-bottom:25px;">
+
+Cette annonce aurait du paraître le 09 avril 2020 CONSTITUTION Création de la sci VALPALOC 1 ham.de canarilles 09220 siguer. Cap.: 400€. Obj.Immobilier. Grt.: patrick marceillac,331 che.des agries 31860 labarthe/leze. 99ans au rcs de foix
+<20>
+<21>
+<FINBALISE>
+<DEBUTBALISE>
+<meta itemprop="url" content="/annonce-legale/1013032653"/>
+<meta itemprop="productID" content="1013032653"/>
+<meta itemprop="releaseDate" content="2020-04-11"/>
+<h2 class="entreprise-title" style="max-width: 720px;line-height:130%;">
+<a href="/annonce-legale/1013032653">
+<span itemprop="name">
+<span class="hidden">
+VALPALOC :
+<1>
+Création d'entreprise
+<2>
+<3>
+<4>
+<small class="hidden">
+<a href="https://actulegales.fr/recherche/siren/882302995">
+<5>
+VALPALOC
+<6>
+(Siren : 882302995)
+<7>
+</small>
+<span class="block entreprise-adresse">
+<8>
+09220
+<9>
+<10>
+SIGUER
+<11>
+<12>
+<dl style="line-height: 24px; margin-bottom:15px">
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="alicons alicons-calendar">
+</i>
+Date
+<13>
+:
+</dt>
+<dd>
+<span style="line-height: 24px;" class="date-content">
+<strong itemprop="releaseDate" content="2020-04-11">
+11 Avril 2020
+<14>
+<15>
+</dd>
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="fa fa-newspaper-o">
+</i>
+Paru dans
+<16>
+:
+</dt>
+<dd itemprop="manufacturer" itemscope="" itemtype="http://schema.org/Organization" style="line-height: 24px;">
+<strong class="result-information" itemprop="name">
+<a href="/journaux/petit-journal-edition-du-gers">
+Petit Journal (Le) /Edition du Gers
+<17>
+<18>
+</dd>
+</dl>
+<meta itemprop="description" content="Cette annonce aurait du paraître le 09 avril 2020 CONSTITUTION Création de la sci VALPALOC 1 ham.de canarilles 09220 siguer. Cap.: 400€. Obj.Immobilier. Grt.: patrick marceillac,331 che.des agries 31860 labarthe/leze. 99ans au rcs de foix..."/>
+<div class="col-xs-12 annonce-detail">
+<h3 class="h4" style="margin-bottom: 25px !important; margin-top: 15px !important;">
+Texte original de l'annonce légale* :
+<19>
+<p class="content" style="font-size: 1em; margin-bottom:25px;">
+
+Cette annonce aurait du paraître le 09 avril 2020 CONSTITUTION Création de la sci VALPALOC 1 ham.de canarilles 09220 siguer. Cap.: 400€. Obj.Immobilier. Grt.: patrick marceillac,331 che.des agries 31860 labarthe/leze. 99ans au rcs de foix
+<20>
+<21>
+<FINBALISE>
+<DEBUTBALISE>
+<meta itemprop="url" content="/annonce-legale/1013032756"/>
+<meta itemprop="productID" content="1013032756"/>
+<meta itemprop="releaseDate" content="2020-04-11"/>
+<h2 class="entreprise-title" style="max-width: 720px;line-height:130%;">
+<a href="/annonce-legale/1013032756">
+<span itemprop="name">
+<span class="hidden">
+VALPALOC :
+<1>
+Création d'entreprise
+<2>
+<3>
+<4>
+<small class="hidden">
+<a href="https://actulegales.fr/recherche/siren/882302995">
+<5>
+VALPALOC
+<6>
+(Siren : 882302995)
+<7>
+</small>
+<span class="block entreprise-adresse">
+<8>
+09220
+<9>
+<10>
+SIGUER
+<11>
+<12>
+<dl style="line-height: 24px; margin-bottom:15px">
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="alicons alicons-calendar">
+</i>
+Date
+<13>
+:
+</dt>
+<dd>
+<span style="line-height: 24px;" class="date-content">
+<strong itemprop="releaseDate" content="2020-04-11">
+11 Avril 2020
+<14>
+<15>
+</dd>
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="fa fa-newspaper-o">
+</i>
+Paru dans
+<16>
+:
+</dt>
+<dd itemprop="manufacturer" itemscope="" itemtype="http://schema.org/Organization" style="line-height: 24px;">
+<strong class="result-information" itemprop="name">
+<a href="/journaux/petit-journal-edition-de-l-herault">
+Petit Journal (Le) / Edition de l'Hérault
+<17>
+<18>
+</dd>
+</dl>
+<meta itemprop="description" content="Cette annonce aurait du paraître le 09 avril 2020 CONSTITUTION Création de la sci VALPALOC 1 ham.de canarilles 09220 siguer. Cap.: 400€. Obj.Immobilier. Grt.: patrick marceillac,331 che.des agries 31860 labarthe/leze. 99ans au rcs de foix..."/>
+<div class="col-xs-12 annonce-detail">
+<h3 class="h4" style="margin-bottom: 25px !important; margin-top: 15px !important;">
+Texte original de l'annonce légale* :
+<19>
+<p class="content" style="font-size: 1em; margin-bottom:25px;">
+
+Cette annonce aurait du paraître le 09 avril 2020 CONSTITUTION Création de la sci VALPALOC 1 ham.de canarilles 09220 siguer. Cap.: 400€. Obj.Immobilier. Grt.: patrick marceillac,331 che.des agries 31860 labarthe/leze. 99ans au rcs de foix
+<20>
+<21>
+<FINBALISE>
+<DEBUTBALISE>
+<meta itemprop="url" content="/annonce-legale/1013033185"/>
+<meta itemprop="productID" content="1013033185"/>
+<meta itemprop="releaseDate" content="2020-04-11"/>
+<h2 class="entreprise-title" style="max-width: 720px;line-height:130%;">
+<a href="/annonce-legale/1013033185">
+<span itemprop="name">
+<span class="hidden">
+VALPALOC :
+<1>
+Création d'entreprise
+<2>
+<3>
+<4>
+<small class="hidden">
+<a href="https://actulegales.fr/recherche/siren/882302995">
+<5>
+VALPALOC
+<6>
+(Siren : 882302995)
+<7>
+</small>
+<span class="block entreprise-adresse">
+<8>
+09220
+<9>
+<10>
+SIGUER
+<11>
+<12>
+<dl style="line-height: 24px; margin-bottom:15px">
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="alicons alicons-calendar">
+</i>
+Date
+<13>
+:
+</dt>
+<dd>
+<span style="line-height: 24px;" class="date-content">
+<strong itemprop="releaseDate" content="2020-04-11">
+11 Avril 2020
+<14>
+<15>
+</dd>
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="fa fa-newspaper-o">
+</i>
+Paru dans
+<16>
+:
+</dt>
+<dd itemprop="manufacturer" itemscope="" itemtype="http://schema.org/Organization" style="line-height: 24px;">
+<strong class="result-information" itemprop="name">
+<a href="/journaux/petit-journal-edition-du-lot">
+Petit Journal (Le) /Edition du Lot
+<17>
+<18>
+</dd>
+</dl>
+<meta itemprop="description" content="Cette annonce aurait du paraître le 09 avril 2020 CONSTITUTION Création de la sci VALPALOC 1 ham.de canarilles 09220 siguer. Cap.: 400€. Obj.Immobilier. Grt.: patrick marceillac,331 che.des agries 31860 labarthe/leze. 99ans au rcs de foix..."/>
+<div class="col-xs-12 annonce-detail">
+<h3 class="h4" style="margin-bottom: 25px !important; margin-top: 15px !important;">
+Texte original de l'annonce légale* :
+<19>
+<p class="content" style="font-size: 1em; margin-bottom:25px;">
+
+Cette annonce aurait du paraître le 09 avril 2020 CONSTITUTION Création de la sci VALPALOC 1 ham.de canarilles 09220 siguer. Cap.: 400€. Obj.Immobilier. Grt.: patrick marceillac,331 che.des agries 31860 labarthe/leze. 99ans au rcs de foix
+<20>
+<21>
+<FINBALISE>
+<DEBUTBALISE>
+<meta itemprop="url" content="/annonce-legale/1013033766"/>
+<meta itemprop="productID" content="1013033766"/>
+<meta itemprop="releaseDate" content="2020-04-11"/>
+<h2 class="entreprise-title" style="max-width: 720px;line-height:130%;">
+<a href="/annonce-legale/1013033766">
+<span itemprop="name">
+<span class="hidden">
+VALPALOC :
+<1>
+Création d'entreprise
+<2>
+<3>
+<4>
+<small class="hidden">
+<a href="https://actulegales.fr/recherche/siren/882302995">
+<5>
+VALPALOC
+<6>
+(Siren : 882302995)
+<7>
+</small>
+<span class="block entreprise-adresse">
+<8>
+09220
+<9>
+<10>
+SIGUER
+<11>
+<12>
+<dl style="line-height: 24px; margin-bottom:15px">
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="alicons alicons-calendar">
+</i>
+Date
+<13>
+:
+</dt>
+<dd>
+<span style="line-height: 24px;" class="date-content">
+<strong itemprop="releaseDate" content="2020-04-11">
+11 Avril 2020
+<14>
+<15>
+</dd>
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="fa fa-newspaper-o">
+</i>
+Paru dans
+<16>
+:
+</dt>
+<dd itemprop="manufacturer" itemscope="" itemtype="http://schema.org/Organization" style="line-height: 24px;">
+<strong class="result-information" itemprop="name">
+<a href="/journaux/petit-journal-edition-de-haute-pyrenees">
+Petit Journal (Le)/Edition de Haute Pyrénées
+<17>
+<18>
+</dd>
+</dl>
+<meta itemprop="description" content="Cette annonce aurait du paraître le 09 avril 2020 CONSTITUTION Création de la sci VALPALOC 1 ham.de canarilles 09220 siguer. Cap.: 400€. Obj.Immobilier. Grt.: patrick marceillac,331 che.des agries 31860 labarthe/leze. 99ans au rcs de foix..."/>
+<div class="col-xs-12 annonce-detail">
+<h3 class="h4" style="margin-bottom: 25px !important; margin-top: 15px !important;">
+Texte original de l'annonce légale* :
+<19>
+<p class="content" style="font-size: 1em; margin-bottom:25px;">
+
+Cette annonce aurait du paraître le 09 avril 2020 CONSTITUTION Création de la sci VALPALOC 1 ham.de canarilles 09220 siguer. Cap.: 400€. Obj.Immobilier. Grt.: patrick marceillac,331 che.des agries 31860 labarthe/leze. 99ans au rcs de foix
+<20>
+<21>
+<FINBALISE>
+<DEBUTBALISE>
+<meta itemprop="url" content="/annonce-legale/1013033855"/>
+<meta itemprop="productID" content="1013033855"/>
+<meta itemprop="releaseDate" content="2020-04-11"/>
+<h2 class="entreprise-title" style="max-width: 720px;line-height:130%;">
+<a href="/annonce-legale/1013033855">
+<span itemprop="name">
+<span class="hidden">
+VALPALOC :
+<1>
+Création d'entreprise
+<2>
+<3>
+<4>
+<small class="hidden">
+<a href="https://actulegales.fr/recherche/siren/882302995">
+<5>
+VALPALOC
+<6>
+(Siren : 882302995)
+<7>
+</small>
+<span class="block entreprise-adresse">
+<8>
+09220
+<9>
+<10>
+SIGUER
+<11>
+<12>
+<dl style="line-height: 24px; margin-bottom:15px">
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="alicons alicons-calendar">
+</i>
+Date
+<13>
+:
+</dt>
+<dd>
+<span style="line-height: 24px;" class="date-content">
+<strong itemprop="releaseDate" content="2020-04-11">
+11 Avril 2020
+<14>
+<15>
+</dd>
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="fa fa-newspaper-o">
+</i>
+Paru dans
+<16>
+:
+</dt>
+<dd itemprop="manufacturer" itemscope="" itemtype="http://schema.org/Organization" style="line-height: 24px;">
+<strong class="result-information" itemprop="name">
+<a href="/journaux/petit-journal-edition-des-pyrenees-orientales">
+Petit Journal (Le) /Edition des Pyrénées Orientales
+<17>
+<18>
+</dd>
+</dl>
+<meta itemprop="description" content="Cette annonce aurait du paraître le 09 avril 2020 CONSTITUTION Création de la sci VALPALOC 1 ham.de canarilles 09220 siguer. Cap.: 400€. Obj.Immobilier. Grt.: patrick marceillac,331 che.des agries 31860 labarthe/leze. 99ans au rcs de foix..."/>
+<div class="col-xs-12 annonce-detail">
+<h3 class="h4" style="margin-bottom: 25px !important; margin-top: 15px !important;">
+Texte original de l'annonce légale* :
+<19>
+<p class="content" style="font-size: 1em; margin-bottom:25px;">
+
+Cette annonce aurait du paraître le 09 avril 2020 CONSTITUTION Création de la sci VALPALOC 1 ham.de canarilles 09220 siguer. Cap.: 400€. Obj.Immobilier. Grt.: patrick marceillac,331 che.des agries 31860 labarthe/leze. 99ans au rcs de foix
+<20>
+<21>
+<FINBALISE>
+<DEBUTBALISE>
+<meta itemprop="url" content="/annonce-legale/1013034841"/>
+<meta itemprop="productID" content="1013034841"/>
+<meta itemprop="releaseDate" content="2020-04-11"/>
+<h2 class="entreprise-title" style="max-width: 720px;line-height:130%;">
+<a href="/annonce-legale/1013034841">
+<span itemprop="name">
+<span class="hidden">
+VALPALOC :
+<1>
+Création d'entreprise
+<2>
+<3>
+<4>
+<small class="hidden">
+<a href="https://actulegales.fr/recherche/siren/882302995">
+<5>
+VALPALOC
+<6>
+(Siren : 882302995)
+<7>
+</small>
+<span class="block entreprise-adresse">
+<8>
+09220
+<9>
+<10>
+SIGUER
+<11>
+<12>
+<dl style="line-height: 24px; margin-bottom:15px">
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="alicons alicons-calendar">
+</i>
+Date
+<13>
+:
+</dt>
+<dd>
+<span style="line-height: 24px;" class="date-content">
+<strong itemprop="releaseDate" content="2020-04-11">
+11 Avril 2020
+<14>
+<15>
+</dd>
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="fa fa-newspaper-o">
+</i>
+Paru dans
+<16>
+:
+</dt>
+<dd itemprop="manufacturer" itemscope="" itemtype="http://schema.org/Organization" style="line-height: 24px;">
+<strong class="result-information" itemprop="name">
+<a href="/journaux/petit-journal-edition-du-tarn-et-garonne">
+Petit Journal (Le) /Edition du Tarn et Garonne
+<17>
+<18>
+</dd>
+</dl>
+<meta itemprop="description" content="Cette annonce aurait du paraître le 09 avril 2020 CONSTITUTION Création de la sci VALPALOC 1 ham.de canarilles 09220 siguer. Cap.: 400€. Obj.Immobilier. Grt.: patrick marceillac,331 che.des agries 31860 labarthe/leze. 99ans au rcs de foix..."/>
+<div class="col-xs-12 annonce-detail">
+<h3 class="h4" style="margin-bottom: 25px !important; margin-top: 15px !important;">
+Texte original de l'annonce légale* :
+<19>
+<p class="content" style="font-size: 1em; margin-bottom:25px;">
+
+Cette annonce aurait du paraître le 09 avril 2020 CONSTITUTION Création de la sci VALPALOC 1 ham.de canarilles 09220 siguer. Cap.: 400€. Obj.Immobilier. Grt.: patrick marceillac,331 che.des agries 31860 labarthe/leze. 99ans au rcs de foix
+<20>
+<21>
+<FINBALISE>
+<DEBUTBALISE>
+<meta itemprop="url" content="/annonce-legale/1013033928"/>
+<meta itemprop="productID" content="1013033928"/>
+<meta itemprop="releaseDate" content="2020-04-11"/>
+<h2 class="entreprise-title" style="max-width: 720px;line-height:130%;">
+<a href="/annonce-legale/1013033928">
+<span itemprop="name">
+<span class="hidden">
+LEA-SOPHIA :
+<1>
+Création d'entreprise
+<2>
+<3>
+<4>
+<small class="hidden">
+<a href="https://actulegales.fr/recherche/siren/882340581">
+<5>
+LEA-SOPHIA
+<6>
+(Siren : 882340581)
+<7>
+</small>
+<span class="block entreprise-adresse">
+<8>
+66740
+<9>
+<10>
+ST GENIS DES FONTAINES
+<11>
+<12>
+<dl style="line-height: 24px; margin-bottom:15px">
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="alicons alicons-calendar">
+</i>
+Date
+<13>
+:
+</dt>
+<dd>
+<span style="line-height: 24px;" class="date-content">
+<strong itemprop="releaseDate" content="2020-04-11">
+11 Avril 2020
+<14>
+<15>
+</dd>
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="fa fa-newspaper-o">
+</i>
+Paru dans
+<16>
+:
+</dt>
+<dd itemprop="manufacturer" itemscope="" itemtype="http://schema.org/Organization" style="line-height: 24px;">
+<strong class="result-information" itemprop="name">
+<a href="/journaux/petites-annonces-roussillonnaises-et-le-journal-des-annonces-legales-reunis">
+Petites Annonces Roussillonnaises (Les) et Le Journal des Annonces Légales Réunis (Parjal)
+<17>
+<18>
+</dd>
+</dl>
+<meta itemprop="description" content="Par ASSP du 22/02/2020 constitution de la SCI : LEA-SOPHIA. Capital : 100 €. Sise : 1 rue du Roy 66740 St-Génis des Fontaines. Objet : gestion immobiliere. Gérance : Christine Guilbaud, 1 rue du Roy 66740 St-Génis des Fontaines. Cession soumise au préalable à agrément de la collectivité des associés. Durée : 99 ans à compter de l’immatriculation au RCS de Perpignan..."/>
+<div class="col-xs-12 annonce-detail">
+<h3 class="h4" style="margin-bottom: 25px !important; ma

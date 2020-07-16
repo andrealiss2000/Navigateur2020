@@ -1,0 +1,1 @@
+java -Xms512M -Xmx1024M -jar "Navigateur2020.jar"

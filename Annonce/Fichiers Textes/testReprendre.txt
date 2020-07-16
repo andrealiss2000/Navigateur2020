@@ -1,0 +1,221 @@
+<DEBUTBALISE>
+<meta itemprop="url" content="/annonce-legale/1013064558"/>
+<meta itemprop="productID" content="1013064558"/>
+<meta itemprop="releaseDate" content="2020-04-27"/>
+<h2 class="entreprise-title" style="max-width: 720px;line-height:130%;">
+<a href="/annonce-legale/1013064558">
+<span itemprop="name">
+<span class="hidden">
+SCI LE PARC JAURES :
+<1>
+Création d'entreprise
+<2>
+<3>
+<4>
+<small class="hidden">
+<a href="https://actulegales.fr/recherche/siren/489737155">
+<5>
+SCI LE PARC JAURES
+<6>
+(Siren : 489737155)
+<7>
+</small>
+<span class="block entreprise-adresse">
+<8>
+08000
+<9>
+<10>
+CHARLEVILLE MEZIERES
+<11>
+<12>
+<dl style="line-height: 24px; margin-bottom:15px">
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="alicons alicons-calendar">
+</i>
+Date
+<13>
+:
+</dt>
+<dd>
+<span style="line-height: 24px;" class="date-content">
+<strong itemprop="releaseDate" content="2020-04-27">
+27 Avril 2020
+<14>
+<15>
+</dd>
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="fa fa-newspaper-o">
+</i>
+Paru dans
+<16>
+:
+</dt>
+<dd itemprop="manufacturer" itemscope="" itemtype="http://schema.org/Organization" style="line-height: 24px;">
+<strong class="result-information" itemprop="name">
+<a href="/journaux/petites-affiches-matot-braine">
+Petites Affiches Matot Braine (Les)
+<17>
+<18>
+</dd>
+</dl>
+<meta itemprop="description" content="SCI LE PARC JAURES SCI LE PARC JAURES, 489 737 155 R.C.S. SEDAN. Par acte SSP à CHARLEVILLE MEZIERES du 13/02/2020, les associés ont decidé de la refonte totale des statuts de la société dont les caractéristiques sont les suivantes. FORME : Société civile immobilière. DENOMINATION : SCI LE PARC JAURES. OBJET : — L’acquisition,  La construction, la propriété, la gestion, l’administ..."/>
+<div class="col-xs-12 annonce-detail">
+<h3 class="h4" style="margin-bottom: 25px !important; margin-top: 15px !important;">
+Texte original de l'annonce légale* :
+<19>
+<p class="content" style="font-size: 1em; margin-bottom:25px;">
+
+SCI LE PARC JAURES SCI LE PARC JAURES, 489 737 155 R.C.S. SEDAN. Par acte SSP à CHARLEVILLE MEZIERES du 13/02/2020, les associés ont decidé de la refonte totale des statuts de la société dont les caractéristiques sont les suivantes. FORME : Société civile immobilière. DENOMINATION : SCI LE PARC JAURES. OBJET : — L’acquisition,  La construction, la propriété, la gestion, l’administration, l’entretien et la location de tous immeubles ou droits immobiliers ; — La mise à disposition à titre gratuit ou à titre onéreux des biens immobiliers acquis par la société ; — De manière exceptionnelle, l’aliénation du ou des immeubles devenus inutiles à la société, au moyen de la vente échange ou apport en société, la fréquence des ventes ne devant pas modifier le caractère civil de la société et toute opération pouvant se rattacher à l’objet social. SIEGE : 5 chemin sous les roches à CHARLEVILLE MEZIERES. DUREE : 99 ans. CAPITAL : 100.000 €. GERANTS : Monsieur Irek KACZMARCZYK, 5 chemin sous les roches CHARLEVILLE MEZIERES ; Madame Marie-France BROUTIN, même adresse. CESSIONS DE PARTS : Cession libre entre associés. Agrément obligatoire de l’AGO pour tous les autres cas. 196867 Pour avis : Le gérant.
+<20>
+<21>
+<FINBALISE>
+<DEBUTBALISE>
+<meta itemprop="url" content="/annonce-legale/1013053044"/>
+<meta itemprop="productID" content="1013053044"/>
+<meta itemprop="releaseDate" content="2020-04-24"/>
+<h2 class="entreprise-title" style="max-width: 720px;line-height:130%;">
+<a href="/annonce-legale/1013053044">
+<span itemprop="name">
+<span class="hidden">
+TPC :
+<1>
+Création d'entreprise
+<2>
+<3>
+<4>
+<small class="hidden">
+<a href="https://actulegales.fr/recherche/siren/882182835">
+<5>
+TPC
+<6>
+(Siren : 882182835)
+<7>
+</small>
+<span class="block entreprise-adresse">
+<8>
+44000
+<9>
+<10>
+NANTES
+<11>
+<12>
+<dl style="line-height: 24px; margin-bottom:15px">
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="alicons alicons-calendar">
+</i>
+Date
+<13>
+:
+</dt>
+<dd>
+<span style="line-height: 24px;" class="date-content">
+<strong itemprop="releaseDate" content="2020-04-24">
+24 Avril 2020
+<14>
+<15>
+</dd>
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="fa fa-newspaper-o">
+</i>
+Paru dans
+<16>
+:
+</dt>
+<dd itemprop="manufacturer" itemscope="" itemtype="http://schema.org/Organization" style="line-height: 24px;">
+<strong class="result-information" itemprop="name">
+<a href="/journaux/informateur-judiciaire">
+Informateur judiciaire (L')
+<17>
+<18>
+</dd>
+</dl>
+<meta itemprop="description" content="Par ASSP du 21/02/2020, il a éte constitué la SCI dénommée TPC. Siège social : 29 rue de Coulmiers 44000 Nantes. Capital : 550 €. Objet : acquisition et gestion de biens mobiliers et immobiliers. Gérance : Mme Christine RIVIERRE, 29 rue de Coulmiers 44000 Nantes. Cessions soumises à agrément. Durée : 99 ans. Immatriculation au RCS de NANTES. 20IJ02466..."/>
+<div class="col-xs-12 annonce-detail">
+<h3 class="h4" style="margin-bottom: 25px !important; margin-top: 15px !important;">
+Texte original de l'annonce légale* :
+<19>
+<p class="content" style="font-size: 1em; margin-bottom:25px;">
+
+Par ASSP du 21/02/2020, il a éte constitué la SCI dénommée TPC. Siège social : 29 rue de Coulmiers 44000 Nantes. Capital : 550 €. Objet : acquisition et gestion de biens mobiliers et immobiliers. Gérance : Mme Christine RIVIERRE, 29 rue de Coulmiers 44000 Nantes. Cessions soumises à agrément. Durée : 99 ans. Immatriculation au RCS de NANTES. 20IJ02466
+<20>
+<21>
+<FINBALISE>
+<DEBUTBALISE>
+<meta itemprop="url" content="/annonce-legale/1013032835"/>
+<meta itemprop="productID" content="1013032835"/>
+<meta itemprop="releaseDate" content="2020-04-12"/>
+<h2 class="entreprise-title" style="max-width: 720px;line-height:130%;">
+<a href="/annonce-legale/1013032835">
+<span itemprop="name">
+<span class="hidden">
+SCI BOURGEOIS IMMOBILIER :
+<1>
+Création d'entreprise
+<2>
+<3>
+<4>
+<small class="hidden">
+<a href="https://actulegales.fr/recherche/siren/882195571">
+<5>
+SCI BOURGEOIS IMMOBILIER
+<6>
+(Siren : 882195571)
+<7>
+</small>
+<span class="block entreprise-adresse">
+<8>
+36100
+<9>
+<10>
+ST AOUSTRILLE
+<11>
+<12>
+<dl style="line-height: 24px; margin-bottom:15px">
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="alicons alicons-calendar">
+</i>
+Date
+<13>
+:
+</dt>
+<dd>
+<span style="line-height: 24px;" class="date-content">
+<strong itemprop="releaseDate" content="2020-04-12">
+12 Avril 2020
+<14>
+<15>
+</dd>
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="fa fa-newspaper-o">
+</i>
+Paru dans
+<16>
+:
+</dt>
+<dd itemprop="manufacturer" itemscope="" itemtype="http://schema.org/Organization" style="line-height: 24px;">
+<strong class="result-information" itemprop="name">
+<a href="/journaux/nouvelle-republique-du-centre-ouest-edition-de-l-indre">
+La Nouvelle République du Centre Ouest - Edition de l'Indre
+<17>
+<18>
+</dd>
+</dl>
+<meta itemprop="description" content="Par acte SSP du 02/03/2020, il a éte constitué une SCI ayant les caractéristiques suivantes : Dénomination : SCI BOURGEOIS IMMOBILIER. Objet social : immobilier Siège social : Zac Champfort 36100 Saint Aoustrille, 36100 Saint-Aoustrille. Capital : 1000 €. Durée: 99 ans. Gérance : Mme Bourgeois Kathleen,  Demeurant 15 rue des Castors, 36100 Issoudun. Immatriculation au RCS de Châteauroux...."/>
+<div class="col-xs-12 annonce-detail">
+<h3 class="h4" style="margin-bottom: 25px !important; margin-top: 15px !important;">
+Texte original de l'annonce légale* :
+<19>
+<p class="content" style="font-size: 1em; margin-bottom:25px;">
+
+Par acte SSP du 02/03/2020, il a éte constitué une SCI ayant les caractéristiques suivantes : Dénomination : SCI BOURGEOIS IMMOBILIER. Objet social : immobilier Siège social : Zac Champfort 36100 Saint Aoustrille, 36100 Saint-Aoustrille. Capital : 1000 €. Durée: 99 ans. Gérance : Mme Bourgeois Kathleen,  Demeurant 15 rue des Castors, 36100 Issoudun. Immatriculation au RCS de Châteauroux.
+<20>
+<21>
+<FINBALISE>
+<DEBUTBALISE>
+<meta itemprop="ur

@@ -1,0 +1,260 @@
+
+--------------------------------------------------
+--------Début d'une nouvelle récupération---------
+Date 				: Mon May 04 08:47:23 CEST 2020
+Balise de deb		: <div class="result-entreprise-information">
+Balise de fin		: <!-- Article result actions -->
+Nombre d'URL 		: 679
+Fichier source		: C:\Users\planète\Documents\Planète\Documents\Applications\Applications\Navigateur2018Excel\Annonce\Fichiers URL\sci.xls
+Fichier sortie		: .\Annonce\Fichiers Textes/sci.txt
+--------------------------------------------------
+--------Début d'une nouvelle récupération---------
+Date 				: Wed May 20 11:42:46 CEST 2020
+Balise de deb		: <div class="result-entreprise-information">
+Balise de fin		: <div class="result-actions">
+Nombre d'URL 		: 679
+Fichier source		: E:\Andrea\Navigateur2018Excel\Annonce\Fichiers URL\sci.xls
+Fichier sortie		: .\Annonce\Fichiers Textes/testAnntiRobot.txt
+--------------------------------------------------
+--------Début d'une nouvelle récupération---------
+Nom du projet      : testReprendre
+Date 				: Mon May 25 09:42:38 CEST 2020
+Balise de deb		: <div class="result-entreprise-information">
+Balise de fin		: <div class="result-actions">
+Temps minimum      : 0
+Temps maximum      : 0
+Nombre d'URL 		: 679
+Fichier source		: E:\Andrea\Navigateur2018Excel\Annonce\Fichiers URL\sci.xls
+Fichier sortie		: .\Annonce\Fichiers Textes/testReprendre.txt
+--------------------------------------------------
+--------Début d'une nouvelle récupération---------
+Nom du projet      : toto
+Date 				: Mon May 25 09:53:26 CEST 2020
+Balise de deb		: <div class="result-entreprise-information">
+Balise de fin		: <div class="result-actions">
+Temps minimum      : 0
+Temps maximum      : 0
+Nombre d'URL 		: 679
+Fichier source		: E:\Andrea\Navigateur2018Excel\Annonce\Fichiers URL\sci.xls
+Fichier sortie		: .\Annonce\Fichiers Textes/testReprendre.txt
+--------------------------------------------------
+--------Début d'une nouvelle récupération---------
+Nom du projet      : toto
+Date 				: Wed May 27 09:41:53 CEST 2020
+Balise de deb		: <div class="result-entreprise-information">
+Balise de fin		: <div class="result-actions">
+Temps minimum      : 0
+Temps maximum      : 0
+Nombre d'URL 		: 0
+Fichier source		: E:\Andrea\Navigateur2018Excel\Annonce\Fichiers URL\sci.xls
+Fichier sortie		: .\Annonce\Fichiers Textes/toto.txt
+--------------------------------------------------
+--------Début d'une nouvelle récupération---------
+Nom du projet      : test_10
+Date 				: Wed May 27 09:44:43 CEST 2020
+Balise de deb		: <div class="result-entreprise-information">
+Balise de fin		: <div class="result-actions">
+Temps minimum      : 0
+Temps maximum      : 0
+Nombre d'URL 		: 0
+Fichier source		: E:\Andrea\Navigateur2018Excel\Annonce\Fichiers URL\sci.xls
+Fichier sortie		: .\Annonce\Fichiers Textes/test_10.txt
+--------------------------------------------------
+--------Début d'une nouvelle récupération---------
+Nom du projet      : test_11
+Date 				: Wed May 27 09:44:58 CEST 2020
+Balise de deb		: <div class="result-entreprise-information">
+Balise de fin		: <div class="result-actions">
+Temps minimum      : 0
+Temps maximum      : 0
+Nombre d'URL 		: 0
+Fichier source		: E:\Andrea\Navigateur2018Excel\Annonce\Fichiers URL\sci.xls
+Fichier sortie		: .\Annonce\Fichiers Textes/test_11.txt
+--------------------------------------------------
+--------Début d'une nouvelle récupération---------
+Nom du projet      : test_101
+Date 				: Wed May 27 16:30:15 CEST 2020
+Balise de deb		: <div class="result-entreprise-information">
+Balise de fin		: <div class="result-actions">
+Temps minimum      : 0
+Temps maximum      : 0
+Nombre d'URL 		: 0
+Fichier source		: E:\Andrea\Navigateur2018Excel\Annonce\Fichiers URL\sci.xls
+Fichier sortie		: .\Annonce\Fichiers Textes/test_101.txt
+--------------------------------------------------
+--------Début d'une nouvelle récupération---------
+Nom du projet      : test
+Date 				: Thu Jun 04 14:50:11 CEST 2020
+Balise de deb		: <head>
+Balise de fin		: </body>
+Temps minimum      : 2000
+Temps maximum      : 3000
+Nombre d'URL 		: 34
+Fichier source		: E:\Andrea\Navigateur2020Excel\Annonce\Fichiers URL\Le Bon Coin Liens.xls
+Fichier sortie		: .\Annonce\Fichiers Textes/test.txt
+Récupération interrompue
+--------------------------------------------------
+--------Début d'une nouvelle récupération---------
+Nom du projet      : test
+Date 				: Thu Jun 04 14:51:12 CEST 2020
+Balise de deb		: <head>
+Balise de fin		: </body>
+Temps minimum      : 2000
+Temps maximum      : 3000
+Nombre d'URL 		: 34
+Fichier source		: E:\Andrea\Navigateur2020Excel\Annonce\Fichiers URL\Le Bon Coin Liens.xls
+Fichier sortie		: .\Annonce\Fichiers Textes/test.txt
+Récupération interrompue
+--------------------------------------------------
+--------Début d'une nouvelle récupération---------
+Nom du projet      : test
+Date 				: Thu Jun 04 14:51:44 CEST 2020
+Balise de deb		: <head>
+Balise de fin		: </body>
+Temps minimum      : 2000
+Temps maximum      : 3000
+Nombre d'URL 		: 34
+Fichier source		: E:\Andrea\Navigateur2020Excel\Annonce\Fichiers URL\Le Bon Coin Liens.xls
+Fichier sortie		: .\Annonce\Fichiers Textes/test.txt
+Récupération interrompue
+--------------------------------------------------
+--------Début d'une nouvelle récupération---------
+Nom du projet      : test
+Date 				: Thu Jun 04 14:54:24 CEST 2020
+Balise de deb		: <head>
+Balise de fin		: </body>
+Temps minimum      : 2000
+Temps maximum      : 3000
+Nombre d'URL 		: 34
+Fichier source		: E:\Andrea\Navigateur2020Excel\Annonce\Fichiers URL\Le Bon Coin Liens.xls
+Fichier sortie		: .\Annonce\Fichiers Textes/test.txt
+Récupération interrompue
+--------------------------------------------------
+--------Début d'une nouvelle récupération---------
+Nom du projet      : test
+Date 				: Thu Jun 04 14:55:05 CEST 2020
+Balise de deb		: <head>
+Balise de fin		: </body>
+Temps minimum      : 2000
+Temps maximum      : 3000
+Nombre d'URL 		: 34
+Fichier source		: E:\Andrea\Navigateur2020Excel\Annonce\Fichiers URL\Le Bon Coin Liens.xls
+Fichier sortie		: .\Annonce\Fichiers Textes/test.txt
+Récupération interrompue
+--------------------------------------------------
+--------Début d'une nouvelle récupération---------
+Nom du projet      : test
+Date 				: Thu Jun 04 14:57:07 CEST 2020
+Balise de deb		: <head>
+Balise de fin		: </body>
+Temps minimum      : 2000
+Temps maximum      : 3000
+Nombre d'URL 		: 34
+Fichier source		: E:\Andrea\Navigateur2020Excel\Annonce\Fichiers URL\Le Bon Coin Liens.xls
+Fichier sortie		: .\Annonce\Fichiers Textes/test.txt
+Récupération interrompue
+--------------------------------------------------
+--------Début d'une nouvelle récupération---------
+Nom du projet      : test
+Date 				: Thu Jun 04 15:00:00 CEST 2020
+Balise de deb		: <head>
+Balise de fin		: </body>
+Temps minimum      : 2000
+Temps maximum      : 3000
+Nombre d'URL 		: 34
+Fichier source		: E:\Andrea\Navigateur2020Excel\Annonce\Fichiers URL\Le Bon Coin Liens.xls
+Fichier sortie		: .\Annonce\Fichiers Textes/test.txt
+Récupération interrompue
+--------------------------------------------------
+--------Début d'une nouvelle récupération---------
+Nom du projet      : test
+Date 				: Thu Jun 04 15:02:16 CEST 2020
+Balise de deb		: <head>
+Balise de fin		: </body>
+Temps minimum      : 2000
+Temps maximum      : 3000
+Nombre d'URL 		: 34
+Fichier source		: E:\Andrea\Navigateur2020Excel\Annonce\Fichiers URL\Le Bon Coin Liens.xls
+Fichier sortie		: .\Annonce\Fichiers Textes/test.txt
+Récupération interrompue
+--------------------------------------------------
+--------Début d'une nouvelle récupération---------
+Nom du projet      : test26
+Date 				: Mon Jun 08 16:36:59 CEST 2020
+Balise de deb		: <head>
+Balise de fin		: </body>
+Temps minimum      : 2000
+Temps maximum      : 3000
+Nombre d'URL 		: 34
+Fichier source		: E:\Andrea\Navigateur2020Excel\Annonce\Fichiers URL\Le Bon Coin Liens.xls
+Fichier sortie		: .\Annonce\Fichiers Textes/test.txt
+Récupération interrompue
+--------------------------------------------------
+--------Début d'une nouvelle récupération---------
+Nom du projet      : test28
+Date 				: Mon Jun 08 16:37:23 CEST 2020
+Balise de deb		: <head>
+Balise de fin		: </body>
+Temps minimum      : 2000
+Temps maximum      : 3000
+Nombre d'URL 		: 405
+Fichier source		: E:\Andrea\Navigateur2020Excel\Annonce\Fichiers URL\sci2.xls
+Fichier sortie		: .\Annonce\Fichiers Textes/test.txt
+Récupération interrompue
+--------------------------------------------------
+--------Début d'une nouvelle récupération---------
+Nom du projet      : toto3
+Date 				: Mon Jun 08 16:45:37 CEST 2020
+Balise de deb		: <div class="result-entreprise-information">
+Balise de fin		: <div class="result-actions">
+Temps minimum      : 0
+Temps maximum      : 0
+Nombre d'URL 		: 0
+Fichier source		: E:\Andrea\Navigateur2018Excel\Annonce\Fichiers URL\sci.xls
+Fichier sortie		: .\Annonce\Fichiers Textes/toto.txt
+--------------------------------------------------
+--------Début d'une nouvelle récupération---------
+Nom du projet      : maj
+Date 				: Mon Jun 08 16:47:28 CEST 2020
+Balise de deb		: <div class="result-entreprise-information">
+Balise de fin		: <div class="result-actions">
+Temps minimum      : 0
+Temps maximum      : 0
+Nombre d'URL 		: 0
+Fichier source		: E:\Andrea\Navigateur2018Excel\Annonce\Fichiers URL\sci.xls
+Fichier sortie		: .\Annonce\Fichiers Textes/maj.txt
+--------------------------------------------------
+--------Début d'une nouvelle récupération---------
+Nom du projet      : testtt
+Date 				: Tue Jul 14 13:36:35 CEST 2020
+Balise de deb		: <div class="result-entreprise-information">
+Balise de fin		: <div class="result-actions">
+Temps minimum      : 0
+Temps maximum      : 0
+Nombre d'URL 		: 0
+Fichier source		: E:\Andrea\Navigateur2018Excel\Annonce\Fichiers URL\sci.xls
+Fichier sortie		: .\Annonce\Fichiers Textes/testtt.txt
+--------------------------------------------------
+--------Début d'une nouvelle récupération---------
+Nom du projet      : TESST
+Date 				: Tue Jul 14 18:31:01 CEST 2020
+Balise de deb		: <div class="result-entreprise-information">
+Balise de fin		: <div class="result-actions">
+Temps minimum      : 0
+Temps maximum      : 0
+Nombre d'URL 		: 34
+Fichier source		: E:\Andrea\Navigateur2020Excel\Annonce\Fichiers URL\Le Bon Coin Liens.xls
+Fichier sortie		: .\Annonce\Fichiers Textes/TESST.txt
+Récupération interrompue
+--------------------------------------------------
+--------Début d'une nouvelle récupération---------
+Nom du projet      : TEST
+Date 				: Wed Jul 15 17:42:49 CEST 2020
+Balise de deb		: <head>
+Balise de fin		: </body>
+Temps minimum      : 0
+Temps maximum      : 0
+Nombre d'URL 		: 34
+Fichier source		: E:\Andrea\Navigateur2020Excel\Annonce\Fichiers URL\Le Bon Coin Liens.xls
+Fichier sortie		: .\Annonce\Fichiers Textes/TEST.txt
+--------------------------------------------------

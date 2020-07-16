@@ -1,0 +1,723 @@
+<DEBUTBALISE>
+<meta itemprop="url" content="/annonce-legale/1012782347"/>
+<meta itemprop="productID" content="1012782347"/>
+<meta itemprop="releaseDate" content="2020-01-30"/>
+<h2 class="entreprise-title" style="max-width: 720px;line-height:130%;">
+<a href="/annonce-legale/1012782347">
+<span itemprop="name">
+<span class="hidden">
+PRIXIMMO :
+<1>
+Modification de l'adresse du Siège social
+<2>
+<3>
+<4>
+<small class="hidden">
+<a href="https://actulegales.fr/recherche/siren/879740660">
+<5>
+PRIXIMMO
+<6>
+(Siren : 879740660)
+<7>
+</small>
+<span class="block entreprise-adresse">
+<8>
+92100
+<9>
+<10>
+BOULOGNE BILLANCOURT
+<11>
+<12>
+<dl style="line-height: 24px; margin-bottom:15px">
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="alicons alicons-calendar">
+</i>
+Date
+<13>
+:
+</dt>
+<dd>
+<span style="line-height: 24px;" class="date-content">
+<strong itemprop="releaseDate" content="2020-01-30">
+30 Janvier 2020
+<14>
+<15>
+</dd>
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="fa fa-newspaper-o">
+</i>
+Paru dans
+<16>
+:
+</dt>
+<dd itemprop="manufacturer" itemscope="" itemtype="http://schema.org/Organization" style="line-height: 24px;">
+<strong class="result-information" itemprop="name">
+<a href="/journaux/itinerant">
+Itinérant (L')
+<17>
+<18>
+</dd>
+</dl>
+<meta itemprop="description" content="PRIXIMMO SCI au capital de 1 000 € 10 boulevard Louise Michel 91000 EVRY-COURCOURONNES RCS EVRY 879 740 660 Suite AGE du 20/01/2020, nouveau siège social : 7 rue de Vanves, 92100 Boulogne Billancourt, à compter de ce jour. Gerant : Mohamed MAMOUN, 7 rue de Vanves, 92100 Boulogne-Billancourt Objet : Acquisition,  Gestion, location de tous biens immobiliers Durée : 99 ans Immatriculation : RCS ..."/>
+<div class="col-xs-12 annonce-detail">
+<h3 class="h4" style="margin-bottom: 25px !important; margin-top: 15px !important;">
+Texte original de l'annonce légale* :
+<19>
+<p class="content" style="font-size: 1em; margin-bottom:25px;">
+
+PRIXIMMO SCI au capital de 1 000 € 10 boulevard Louise Michel 91000 EVRY-COURCOURONNES RCS EVRY 879 740 660 Suite AGE du 20/01/2020, nouveau siège social : 7 rue de Vanves, 92100 Boulogne Billancourt, à compter de ce jour. Gerant : Mohamed MAMOUN, 7 rue de Vanves, 92100 Boulogne-Billancourt Objet : Acquisition,  Gestion, location de tous biens immobiliers Durée : 99 ans Immatriculation : RCS NANTERRE. 134362
+<20>
+<21>
+<FINBALISE>
+<DEBUTBALISE>
+<meta itemprop="url" content="/annonce-legale/1012746669"/>
+<meta itemprop="productID" content="1012746669"/>
+<meta itemprop="releaseDate" content="2020-01-23"/>
+<h2 class="entreprise-title" style="max-width: 720px;line-height:130%;">
+<a href="/annonce-legale/1012746669">
+<span itemprop="name">
+<span class="hidden">
+PRIXIMMO :
+<1>
+Modification de l'adresse du Siège social
+<2>
+<3>
+<4>
+<small class="hidden">
+<a href="https://actulegales.fr/recherche/siren/879740660">
+<5>
+PRIXIMMO
+<6>
+(Siren : 879740660)
+<7>
+</small>
+<span class="block entreprise-adresse">
+<8>
+92100
+<9>
+<10>
+BOULOGNE BILLANCOURT
+<11>
+<12>
+<dl style="line-height: 24px; margin-bottom:15px">
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="alicons alicons-calendar">
+</i>
+Date
+<13>
+:
+</dt>
+<dd>
+<span style="line-height: 24px;" class="date-content">
+<strong itemprop="releaseDate" content="2020-01-23">
+23 Janvier 2020
+<14>
+<15>
+</dd>
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="fa fa-newspaper-o">
+</i>
+Paru dans
+<16>
+:
+</dt>
+<dd itemprop="manufacturer" itemscope="" itemtype="http://schema.org/Organization" style="line-height: 24px;">
+<strong class="result-information" itemprop="name">
+<a href="/journaux/republicain-de-l-essonne">
+Républicain de l'Essonne (Le)
+<17>
+<18>
+</dd>
+</dl>
+<meta itemprop="description" content="PRIXIMMO SCI au capital de 1 000 € 10 boulevard Louise Michel 91000 EVRY-COURCOURONNES RCS EVRY 879 740 660 Suite AGE du 20/01/2020, nouveau siège social : 7 rue de Vanves, 92100 BOULOGNE-BILLANCOURT, à compter de ce jour. Immatriculation : RCS NANTERRE...."/>
+<div class="col-xs-12 annonce-detail">
+<h3 class="h4" style="margin-bottom: 25px !important; margin-top: 15px !important;">
+Texte original de l'annonce légale* :
+<19>
+<p class="content" style="font-size: 1em; margin-bottom:25px;">
+
+PRIXIMMO SCI au capital de 1 000 € 10 boulevard Louise Michel 91000 EVRY-COURCOURONNES RCS EVRY 879 740 660 Suite AGE du 20/01/2020, nouveau siège social : 7 rue de Vanves, 92100 BOULOGNE-BILLANCOURT, à compter de ce jour. Immatriculation : RCS NANTERRE.
+<20>
+<21>
+<FINBALISE>
+<DEBUTBALISE>
+<meta itemprop="url" content="/annonce-legale/1012463763"/>
+<meta itemprop="productID" content="1012463763"/>
+<meta itemprop="releaseDate" content="2019-11-14"/>
+<h2 class="entreprise-title" style="max-width: 720px;line-height:130%;">
+<a href="/annonce-legale/1012463763">
+<span itemprop="name">
+<span class="hidden">
+SCI PRIXIMMO :
+<1>
+Création d'entreprise
+<2>
+<3>
+<4>
+<small class="hidden">
+<a href="https://actulegales.fr/recherche/siren/879740660">
+<5>
+SCI PRIXIMMO
+<6>
+(Siren : 879740660)
+<7>
+</small>
+<span class="block entreprise-adresse">
+<8>
+91000
+<9>
+<10>
+EVRY COURCOURONNES
+<11>
+<12>
+<dl style="line-height: 24px; margin-bottom:15px">
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="alicons alicons-calendar">
+</i>
+Date
+<13>
+:
+</dt>
+<dd>
+<span style="line-height: 24px;" class="date-content">
+<strong itemprop="releaseDate" content="2019-11-14">
+14 Novembre 2019
+<14>
+<15>
+</dd>
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="fa fa-newspaper-o">
+</i>
+Paru dans
+<16>
+:
+</dt>
+<dd itemprop="manufacturer" itemscope="" itemtype="http://schema.org/Organization" style="line-height: 24px;">
+<strong class="result-information" itemprop="name">
+<a href="/journaux/republicain-de-l-essonne">
+Républicain de l'Essonne (Le)
+<17>
+<18>
+</dd>
+</dl>
+<meta itemprop="description" content="Il a eté constitué une SCI : Dénomination : SCI PRIXIMMO Siège social : 10 boulevard Louise Michel, 91000 EVRY-COURCOURONNES Capital : 1 000 € Objet : acquisition de tous biens immobiliers Gérant : M. MAMOUN Mohamed Amin, 146 Monica Plage, 28800 MOHAMMEDIA MAROC Durée : 99 ans Immatriculation au RCS d’EVRY..."/>
+<div class="col-xs-12 annonce-detail">
+<h3 class="h4" style="margin-bottom: 25px !important; margin-top: 15px !important;">
+Texte original de l'annonce légale* :
+<19>
+<p class="content" style="font-size: 1em; margin-bottom:25px;">
+
+Il a eté constitué une SCI : Dénomination : SCI PRIXIMMO Siège social : 10 boulevard Louise Michel, 91000 EVRY-COURCOURONNES Capital : 1 000 € Objet : acquisition de tous biens immobiliers Gérant : M. MAMOUN Mohamed Amin, 146 Monica Plage, 28800 MOHAMMEDIA MAROC Durée : 99 ans Immatriculation au RCS d’EVRY
+<20>
+<21>
+<FINBALISE>
+<DEBUTBALISE>
+<meta itemprop="url" content="/annonce-legale/1012549589"/>
+<meta itemprop="productID" content="1012549589"/>
+<meta itemprop="releaseDate" content="2019-12-05"/>
+<h2 class="entreprise-title" style="max-width: 720px;line-height:130%;">
+<a href="/annonce-legale/1012549589">
+<span itemprop="name">
+<span class="hidden">
+S.C.I. PHOENIX 92 :
+<1>
+Création d'entreprise
+<2>
+<3>
+<4>
+<small class="hidden">
+<a href="https://actulegales.fr/recherche/siren/879751840">
+<5>
+S.C.I. PHOENIX 92
+<6>
+(Siren : 879751840)
+<7>
+</small>
+<span class="block entreprise-adresse">
+<8>
+92210
+<9>
+<10>
+ST CLOUD
+<11>
+<12>
+<dl style="line-height: 24px; margin-bottom:15px">
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="alicons alicons-calendar">
+</i>
+Date
+<13>
+:
+</dt>
+<dd>
+<span style="line-height: 24px;" class="date-content">
+<strong itemprop="releaseDate" content="2019-12-05">
+05 Décembre 2019
+<14>
+<15>
+</dd>
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="fa fa-newspaper-o">
+</i>
+Paru dans
+<16>
+:
+</dt>
+<dd itemprop="manufacturer" itemscope="" itemtype="http://schema.org/Organization" style="line-height: 24px;">
+<strong class="result-information" itemprop="name">
+<a href="/journaux/itinerant">
+Itinérant (L')
+<17>
+<18>
+</dd>
+</dl>
+<meta itemprop="description" content="Suivant un acte ssp en date du 18/11/2019, il a éte constitué une SCI Dénomination : S.C.I. PHOENIX 92 Siège social : Chez Monsieur &amp; Madame Boiteux 56 rue du Mont Valérien Etage 3 Appartement 302 92210 ST CLOUD Capital : 100 € Activités principales : l’acquisition,  La propriété, la vente, la construction de tous biens immobiliers, location et sous-location, et gestion de tous immeubl..."/>
+<div class="col-xs-12 annonce-detail">
+<h3 class="h4" style="margin-bottom: 25px !important; margin-top: 15px !important;">
+Texte original de l'annonce légale* :
+<19>
+<p class="content" style="font-size: 1em; margin-bottom:25px;">
+
+Suivant un acte ssp en date du 18/11/2019, il a éte constitué une SCI Dénomination : S.C.I. PHOENIX 92 Siège social : Chez Monsieur &amp; Madame Boiteux 56 rue du Mont Valérien Etage 3 Appartement 302 92210 ST CLOUD Capital : 100 € Activités principales : l’acquisition,  La propriété, la vente, la construction de tous biens immobiliers, location et sous-location, et gestion de tous immeubles Durée : 99 ans Gérant : Mme ZHANG EPOUSE BOITEUX Christine Luoya 56 Rue Du Mont Valérien 92210 ST CLOUD et M. BOITEUX David Jean-Paul 56 Rue Du Mont Valérien 92210 ST CLOUD Immatriculation au RCS de NANTERRE 129635
+<20>
+<21>
+<FINBALISE>
+<DEBUTBALISE>
+<meta itemprop="url" content="/annonce-legale/1012579750"/>
+<meta itemprop="productID" content="1012579750"/>
+<meta itemprop="releaseDate" content="2019-12-12"/>
+<h2 class="entreprise-title" style="max-width: 720px;line-height:130%;">
+<a href="/annonce-legale/1012579750">
+<span itemprop="name">
+<span class="hidden">
+FORETS NOLA :
+<1>
+Création d'entreprise
+<2>
+<3>
+<4>
+<small class="hidden">
+<a href="https://actulegales.fr/recherche/siren/879810224">
+<5>
+FORETS NOLA
+<6>
+(Siren : 879810224)
+<7>
+</small>
+<span class="block entreprise-adresse">
+<8>
+92800
+<9>
+<10>
+PUTEAUX
+<11>
+<12>
+<dl style="line-height: 24px; margin-bottom:15px">
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="alicons alicons-calendar">
+</i>
+Date
+<13>
+:
+</dt>
+<dd>
+<span style="line-height: 24px;" class="date-content">
+<strong itemprop="releaseDate" content="2019-12-12">
+12 Décembre 2019
+<14>
+<15>
+</dd>
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="fa fa-newspaper-o">
+</i>
+Paru dans
+<16>
+:
+</dt>
+<dd itemprop="manufacturer" itemscope="" itemtype="http://schema.org/Organization" style="line-height: 24px;">
+<strong class="result-information" itemprop="name">
+<a href="/journaux/echos-le-publicateur-legal-la-vie-judiciaire">
+Echos (Les) / Le Publicateur Légal - La Vie Judiciaire
+<17>
+<18>
+</dd>
+</dl>
+<meta itemprop="description" content="ALP00017735 LES ECHOS Par ASSP en date du 10/12/2019 il a eté constitué une SCI dénommée : FORETS NOLA Siège social : 44Bis Rue Saulnier 92800 PUTEAUX Capital : 1000 € Objet social : L’achat d’appartements, d’ensembles immobiliers commerciaux ou professionnels,  De bâtiments ou de terrains, la location d’appartements, de terrains ou de bâtiments, la construction de tous bâtiments..."/>
+<div class="col-xs-12 annonce-detail">
+<h3 class="h4" style="margin-bottom: 25px !important; margin-top: 15px !important;">
+Texte original de l'annonce légale* :
+<19>
+<p class="content" style="font-size: 1em; margin-bottom:25px;">
+
+ALP00017735 LES ECHOS Par ASSP en date du 10/12/2019 il a eté constitué une SCI dénommée : FORETS NOLA Siège social : 44Bis Rue Saulnier 92800 PUTEAUX Capital : 1000 € Objet social : L’achat d’appartements, d’ensembles immobiliers commerciaux ou professionnels,  De bâtiments ou de terrains, la location d’appartements, de terrains ou de bâtiments, la construction de tous bâtiments, l’exploitation directe ou indirecte desdits terrains ou bâtiments par voie de location ou par tout autre moyen Gérance : Mme MALANDAIN JADE demeurant 44Bis Rue Saulnier 92800 PUTEAUX Durée : 99 ans à compter de son immatriculation au RCS de NANTERRE
+<20>
+<21>
+<FINBALISE>
+<DEBUTBALISE>
+<meta itemprop="url" content="/annonce-legale/1012602954"/>
+<meta itemprop="productID" content="1012602954"/>
+<meta itemprop="releaseDate" content="2019-12-18"/>
+<h2 class="entreprise-title" style="max-width: 720px;line-height:130%;">
+<a href="/annonce-legale/1012602954">
+<span itemprop="name">
+<span class="hidden">
+SCI CIBOURE :
+<1>
+Création d'entreprise
+<2>
+<3>
+<4>
+<small class="hidden">
+<a href="https://actulegales.fr/recherche/siren/879851053">
+<5>
+SCI CIBOURE
+<6>
+(Siren : 879851053)
+<7>
+</small>
+<span class="block entreprise-adresse">
+<8>
+92200
+<9>
+<10>
+NEUILLY SUR SEINE
+<11>
+<12>
+<dl style="line-height: 24px; margin-bottom:15px">
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="alicons alicons-calendar">
+</i>
+Date
+<13>
+:
+</dt>
+<dd>
+<span style="line-height: 24px;" class="date-content">
+<strong itemprop="releaseDate" content="2019-12-18">
+18 Décembre 2019
+<14>
+<15>
+</dd>
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="fa fa-newspaper-o">
+</i>
+Paru dans
+<16>
+:
+</dt>
+<dd itemprop="manufacturer" itemscope="" itemtype="http://schema.org/Organization" style="line-height: 24px;">
+<strong class="result-information" itemprop="name">
+<a href="/journaux/journal-special-des-societes">
+Journal Spécial des Sociétés (Le)
+<17>
+<18>
+</dd>
+</dl>
+<meta itemprop="description" content="Le 09/12/2019, il a éte constitué une société présentant les caractéristiques suivantes: Forme: Société civile immobilière,  Dénomination sociale : SCI CIBOURE Siège social : 9, Rue Casimir Pinel, 92200 NEUILLY SUR SEINE, Objet social : l’acquisition, la location, la gestion de terrains, d’immeubles construits ou en cours de construction ou à rénover, de tous autres biens immeuble..."/>
+<div class="col-xs-12 annonce-detail">
+<h3 class="h4" style="margin-bottom: 25px !important; margin-top: 15px !important;">
+Texte original de l'annonce légale* :
+<19>
+<p class="content" style="font-size: 1em; margin-bottom:25px;">
+
+Le 09/12/2019, il a éte constitué une société présentant les caractéristiques suivantes: Forme: Société civile immobilière,  Dénomination sociale : SCI CIBOURE Siège social : 9, Rue Casimir Pinel, 92200 NEUILLY SUR SEINE, Objet social : l’acquisition, la location, la gestion de terrains, d’immeubles construits ou en cours de construction ou à rénover, de tous autres biens immeubles et de tous biens meubles, Durée : 99 ans, Gérance : Olivier CHAUCHET, demeurant 9, Rue Casimir Pinel, 92200 NEUILLY SUR SEINE, Immatriculation de la Société au RCS de NANTERRE, 924003
+<20>
+<21>
+<FINBALISE>
+<DEBUTBALISE>
+<meta itemprop="url" content="/annonce-legale/1012586991"/>
+<meta itemprop="productID" content="1012586991"/>
+<meta itemprop="releaseDate" content="2019-12-13"/>
+<h2 class="entreprise-title" style="max-width: 720px;line-height:130%;">
+<a href="/annonce-legale/1012586991">
+<span itemprop="name">
+<span class="hidden">
+R2DI :
+<1>
+Création d'entreprise
+<2>
+<3>
+<4>
+<small class="hidden">
+<a href="https://actulegales.fr/recherche/siren/879904076">
+<5>
+R2DI
+<6>
+(Siren : 879904076)
+<7>
+</small>
+<span class="block entreprise-adresse">
+<8>
+92320
+<9>
+<10>
+CHATILLON
+<11>
+<12>
+<dl style="line-height: 24px; margin-bottom:15px">
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="alicons alicons-calendar">
+</i>
+Date
+<13>
+:
+</dt>
+<dd>
+<span style="line-height: 24px;" class="date-content">
+<strong itemprop="releaseDate" content="2019-12-13">
+13 Décembre 2019
+<14>
+<15>
+</dd>
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="fa fa-newspaper-o">
+</i>
+Paru dans
+<16>
+:
+</dt>
+<dd itemprop="manufacturer" itemscope="" itemtype="http://schema.org/Organization" style="line-height: 24px;">
+<strong class="result-information" itemprop="name">
+<a href="/journaux/affiches-parisiennes">
+Affiches parisiennes (Les)
+<17>
+<18>
+</dd>
+</dl>
+<meta itemprop="description" content="U0567945 AFFICHES PARISIENNES Par acte SSP du 26/11/2019, il a eté constitué une SCI présentant les caractéristiques suivantes : Dénomination : R2DI Objet social : Acquisition location d’immeuble. Siège social : 14,  Allée Edgar Brandt, Bâtiment D1, 92320 Châtillon. Durée de la Société : 99 ans à compter de son immatriculation au RCS de Nanterre. Capital : 1.000 €. Mode de cession..."/>
+<div class="col-xs-12 annonce-detail">
+<h3 class="h4" style="margin-bottom: 25px !important; margin-top: 15px !important;">
+Texte original de l'annonce légale* :
+<19>
+<p class="content" style="font-size: 1em; margin-bottom:25px;">
+
+U0567945 AFFICHES PARISIENNES Par acte SSP du 26/11/2019, il a eté constitué une SCI présentant les caractéristiques suivantes : Dénomination : R2DI Objet social : Acquisition location d’immeuble. Siège social : 14,  Allée Edgar Brandt, Bâtiment D1, 92320 Châtillon. Durée de la Société : 99 ans à compter de son immatriculation au RCS de Nanterre. Capital : 1.000 €. Mode de cession de parts sociales : Soumise à agrément sauf entre Associé. Gérance : M. DELCOURT RALPH demeurant 14, allée Edgar-Brandt, Bâtiment D1, 92320 Châtillon.
+<20>
+<21>
+<FINBALISE>
+<DEBUTBALISE>
+<meta itemprop="url" content="/annonce-legale/1012608564"/>
+<meta itemprop="productID" content="1012608564"/>
+<meta itemprop="releaseDate" content="2019-12-19"/>
+<h2 class="entreprise-title" style="max-width: 720px;line-height:130%;">
+<a href="/annonce-legale/1012608564">
+<span itemprop="name">
+<span class="hidden">
+AVVENE 1 :
+<1>
+Création d'entreprise
+<2>
+<3>
+<4>
+<small class="hidden">
+<a href="https://actulegales.fr/recherche/siren/879959690">
+<5>
+AVVENE 1
+<6>
+(Siren : 879959690)
+<7>
+</small>
+<span class="block entreprise-adresse">
+<8>
+92200
+<9>
+<10>
+NEUILLY SUR SEINE
+<11>
+<12>
+<dl style="line-height: 24px; margin-bottom:15px">
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="alicons alicons-calendar">
+</i>
+Date
+<13>
+:
+</dt>
+<dd>
+<span style="line-height: 24px;" class="date-content">
+<strong itemprop="releaseDate" content="2019-12-19">
+19 Décembre 2019
+<14>
+<15>
+</dd>
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="fa fa-newspaper-o">
+</i>
+Paru dans
+<16>
+:
+</dt>
+<dd itemprop="manufacturer" itemscope="" itemtype="http://schema.org/Organization" style="line-height: 24px;">
+<strong class="result-information" itemprop="name">
+<a href="/journaux/parisien-edition-des-hauts-de-seine">
+Parisien (Le) /Edition des Hauts de Seine
+<17>
+<18>
+</dd>
+</dl>
+<meta itemprop="description" content="Par acte SSP en date du 10/12/2019, il a éte constitué une société présentant les caractéristiques suivantes : Dénomination sociale : AVVENE 1 Forme : SCI Capital : 1000E Siège Social : 11 rue des Huissiers, 92200 NEUILLY SUR SEINE Durée : 99 ans Objet social : acquisition,  Apport, propriété, mise en valeur, transformation, construction, aménagement, administration, location et vente ..."/>
+<div class="col-xs-12 annonce-detail">
+<h3 class="h4" style="margin-bottom: 25px !important; margin-top: 15px !important;">
+Texte original de l'annonce légale* :
+<19>
+<p class="content" style="font-size: 1em; margin-bottom:25px;">
+
+Par acte SSP en date du 10/12/2019, il a éte constitué une société présentant les caractéristiques suivantes : Dénomination sociale : AVVENE 1 Forme : SCI Capital : 1000E Siège Social : 11 rue des Huissiers, 92200 NEUILLY SUR SEINE Durée : 99 ans Objet social : acquisition,  Apport, propriété, mise en valeur, transformation, construction, aménagement, administration, location et vente de tous biens et droits immobiliers Gérant : M. COLOMBU Raphaël, 15 rue Madeleine Michelis 92200 NEUILLY SUR SEINE Clause d’agrément : dans tous les cas Immatriculation au RCS de NANTERRE
+<20>
+<21>
+<FINBALISE>
+<DEBUTBALISE>
+<meta itemprop="url" content="/annonce-legale/1012555877"/>
+<meta itemprop="productID" content="1012555877"/>
+<meta itemprop="releaseDate" content="2019-12-06"/>
+<h2 class="entreprise-title" style="max-width: 720px;line-height:130%;">
+<a href="/annonce-legale/1012555877">
+<span itemprop="name">
+<span class="hidden">
+CARTHAGE :
+<1>
+Création d'entreprise
+<2>
+<3>
+<4>
+<small class="hidden">
+<a href="https://actulegales.fr/recherche/siren/879996486">
+<5>
+CARTHAGE
+<6>
+(Siren : 879996486)
+<7>
+</small>
+<span class="block entreprise-adresse">
+<8>
+92600
+<9>
+<10>
+ASNIERES SUR SEINE
+<11>
+<12>
+<dl style="line-height: 24px; margin-bottom:15px">
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="alicons alicons-calendar">
+</i>
+Date
+<13>
+:
+</dt>
+<dd>
+<span style="line-height: 24px;" class="date-content">
+<strong itemprop="releaseDate" content="2019-12-06">
+06 Décembre 2019
+<14>
+<15>
+</dd>
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="fa fa-newspaper-o">
+</i>
+Paru dans
+<16>
+:
+</dt>
+<dd itemprop="manufacturer" itemscope="" itemtype="http://schema.org/Organization" style="line-height: 24px;">
+<strong class="result-information" itemprop="name">
+<a href="/journaux/nouvel-economiste">
+Nouvel Economiste (Le)
+<17>
+<18>
+</dd>
+</dl>
+<meta itemprop="description" content="Par acte SSP du 21/11/2019, il a éte constitué une SCI dénommée : CARTHAGE Siège social : 47 avenue Faidherbe 92600 ASNIERES SUR SEINE Capital : 900 € Objet : L’acquisition,  La gestion d’un bien immobilier familial destiné à être la résidence principale Gérant : M. Riadh CHETTAOUI, 47 avenue Faidherbe 92600 ASNIERES SUR SEINE Durée : 99 ans à compter de l’immatriculation au RC..."/>
+<div class="col-xs-12 annonce-detail">
+<h3 class="h4" style="margin-bottom: 25px !important; margin-top: 15px !important;">
+Texte original de l'annonce légale* :
+<19>
+<p class="content" style="font-size: 1em; margin-bottom:25px;">
+
+Par acte SSP du 21/11/2019, il a éte constitué une SCI dénommée : CARTHAGE Siège social : 47 avenue Faidherbe 92600 ASNIERES SUR SEINE Capital : 900 € Objet : L’acquisition,  La gestion d’un bien immobilier familial destiné à être la résidence principale Gérant : M. Riadh CHETTAOUI, 47 avenue Faidherbe 92600 ASNIERES SUR SEINE Durée : 99 ans à compter de l’immatriculation au RCS de NANTERRE AL1219-107758
+<20>
+<21>
+<FINBALISE>
+<DEBUTBALISE>
+<meta itemprop="url" content="/annonce-legale/1012611424"/>
+<meta itemprop="productID" content="1012611424"/>
+<meta itemprop="releaseDate" content="2019-12-19"/>
+<h2 class="entreprise-title" style="max-width: 720px;line-height:130%;">
+<a href="/annonce-legale/1012611424">
+<span itemprop="name">
+<span class="hidden">
+KHOMA SCI :
+<1>
+Création d'entreprise
+<2>
+<3>
+<4>
+<small class="hidden">
+<a href="https://actulegales.fr/recherche/siren/880013677">
+<5>
+KHOMA SCI
+<6>
+(Siren : 880013677)
+<7>
+</small>
+<span class="block entreprise-adresse">
+<8>
+93000
+<9>
+<10>
+BOBIGNY
+<11>
+<12>
+<dl style="line-height: 24px; margin-bottom:15px">
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="alicons alicons-calendar">
+</i>
+Date
+<13>
+:
+</dt>
+<dd>
+<span style="line-height: 24px;" class="date-content">
+<strong itemprop="releaseDate" content="2019-12-19">
+19 Décembre 2019
+<14>
+<15>
+</dd>
+<dt>
+<span style="line-height: 24px;" class="date-title">
+<i class="fa fa-newspaper-o">
+</i>
+Paru dans
+<16>
+:
+</dt>
+<dd itemprop="manufacturer" itemscope="" itemtype="http://schema.org/Organization" style="line-height: 24px;">
+<strong class="result-information" itemprop="name">
+<a href="/journaux/echos-le-publicateur-legal-la-vie-judiciaire">
+Echos (Les) / Le Publicateur Légal - La Vie Judiciaire
+<17>
+<18>
+</dd>
+</dl>
+<meta itemprop="description" content="12185354W LEPUBLICATEUR LEGAL Aux termes d’un acte SSP en date à Bobigny du 16/12/2019 a été constituee une SCI nommée : KHOMA SCI Objet : l’acquisition, la mise en valeur,  L’administration, l’exploitation, la location, la vente en totalité ou en partie, l’échange de tous immeubles. Pour la réalisation de cet objet, la gérance peut effectuer toutes opérations non susceptibles d..."/>
+<div class="col-xs-12 annonce-detail">
+<h3 class="h4" style="margin-bottom: 25px !important; margin-top: 15px !important;">
+Texte original de l'annonce lég
